@@ -1,0 +1,721 @@
+QUERY	футбол
+HITS	1333
+Футбол	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB
+Видеопомощники судьи	https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D0%BD%D0%B8%D0%BA%D0%B8_%D1%81%D1%83%D0%B4%D1%8C%D0%B8
+Женский футбол	https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB
+Система автоматического определения голов	https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2
+Тактические построения в футболе	https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B5
+Футбольная культура	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0
+Футбольные ворота	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%B2%D0%BE%D1%80%D0%BE%D1%82%D0%B0
+Невероятная команда	https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0
+Разновидности футбола	https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B0
+3372941.html	https://www.sports.ru/football/blogs/3372941.html
+3373161.html	https://www.sports.ru/football/blogs/3373161.html
+Мотобол	https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%82%D0%BE%D0%B1%D0%BE%D0%BB
+Пляжный футбол	https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D1%8F%D0%B6%D0%BD%D1%8B%D0%B9_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB
+Рашбол	https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%88%D0%B1%D0%BE%D0%BB
+Сокка (игра)	https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BA%D0%BA%D0%B0_(%D0%B8%D0%B3%D1%80%D0%B0)
+Уличный футбол	https://ru.wikipedia.org/wiki/%D0%A3%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB
+Футбол в залах	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB_%D0%B2_%D0%B7%D0%B0%D0%BB%D0%B0%D1%85
+Футбол в шарах	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB_%D0%B2_%D1%88%D0%B0%D1%80%D0%B0%D1%85
+Футволей	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B2%D0%BE%D0%BB%D0%B5%D0%B9
+Футзал	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B7%D0%B0%D0%BB
+Чеканка мяча	https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D0%BA%D0%B0%D0%BD%D0%BA%D0%B0_%D0%BC%D1%8F%D1%87%D0%B0
+Шоубол	https://ru.wikipedia.org/wiki/%D0%A8%D0%BE%D1%83%D0%B1%D0%BE%D0%BB
+Buntkicktgut	https://ru.wikipedia.org/wiki/Buntkicktgut
+Анри, Тьерри	https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%80%D0%B8,_%D0%A2%D1%8C%D0%B5%D1%80%D1%80%D0%B8
+Бергкамп, Деннис	https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%B3%D0%BA%D0%B0%D0%BC%D0%BF,_%D0%94%D0%B5%D0%BD%D0%BD%D0%B8%D1%81
+article-6297154-fnl-pervaya-i-vtoraya-ligi-2025-2026-glavnye-novosti-chto-proishodit-sobytiya-transfery-evseev-tashuev-kamaz-chernomorec-fake.html	https://www.championat.com/football/article-6297154-fnl-pervaya-i-vtoraya-ligi-2025-2026-glavnye-novosti-chto-proishodit-sobytiya-transfery-evseev-tashuev-kamaz-chernomorec-fake.html
+Бест, Джордж	https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%81%D1%82,_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6
+article-6295354-kakie-igroki-pomenyayut-klub-zimoj-barinov-boselli-makarov-gondu-diveev-a-kto-eschyo-rpl-2025-2026.html	https://www.championat.com/football/article-6295354-kakie-igroki-pomenyayut-klub-zimoj-barinov-boselli-makarov-gondu-diveev-a-kto-eschyo-rpl-2025-2026.html
+article-6292498-talalaev-luis-enrike-baltika-pszh-pochemu-glavnye-trenery-smotryat-futbol-s-tribuny-kto-tak-delaet-i-zachem.html	https://www.championat.com/football/article-6292498-talalaev-luis-enrike-baltika-pszh-pochemu-glavnye-trenery-smotryat-futbol-s-tribuny-kto-tak-delaet-i-zachem.html
+article-6295506-kamerun-gabon-kot-d-ivuar-mozambik-alzhir-sudan-burkina-faso-obzor-matchej-kubka-afriki-video-golov-24-dekabrya-2025.html	https://www.championat.com/football/article-6295506-kamerun-gabon-kot-d-ivuar-mozambik-alzhir-sudan-burkina-faso-obzor-matchej-kubka-afriki-video-golov-24-dekabrya-2025.html
+article-6294982-transfery-futbola-zima-2025-2026-real-madrid-endrik-pochemu-klub-otdal-forvarda-v-arendu-v-lion-buduschee-podrobnosti-mnenie.html	https://www.championat.com/football/article-6294982-transfery-futbola-zima-2025-2026-real-madrid-endrik-pochemu-klub-otdal-forvarda-v-arendu-v-lion-buduschee-podrobnosti-mnenie.html
+Бышовец, Анатолий Фёдорович	https://ru.wikipedia.org/wiki/%D0%91%D1%8B%D1%88%D0%BE%D0%B2%D0%B5%D1%86,_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D0%B9_%D0%A4%D1%91%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87
+Газзаев, Валерий Георгиевич	https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B7%D0%B7%D0%B0%D0%B5%D0%B2,_%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D0%B9_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D0%B8%D1%87
+article-6292814-chm-2026-fifa-dzhanni-infantino-skolko-stoit-bilet-na-final-uschemlenie-invalidov-loyalnye-bolelschiki.html	https://www.championat.com/football/article-6292814-chm-2026-fifa-dzhanni-infantino-skolko-stoit-bilet-na-final-uschemlenie-invalidov-loyalnye-bolelschiki.html
+article-6293378-byvshij-avtor-chempionata-sergej-titov-k-20-letiyu-chempionata-ob-otdele-futbola-nachale-raboty-analitikom-komandirovkah.html	https://www.championat.com/football/article-6293378-byvshij-avtor-chempionata-sergej-titov-k-20-letiyu-chempionata-ob-otdele-futbola-nachale-raboty-analitikom-komandirovkah.html
+article-6292950-napadayuschij-liverpulya-aleksander-isak-slomal-golenostop-travma-kak-poluchil-sroki-vozvrascheniya-kupyat-li-zamenu-ekitike-semen.html	https://www.championat.com/football/article-6292950-napadayuschij-liverpulya-aleksander-isak-slomal-golenostop-travma-kak-poluchil-sroki-vozvrascheniya-kupyat-li-zamenu-ekitike-semen.html
+article-6288756-glavnye-futbolnye-sobytiya-2025-goda-chempionstvo-krasnodara-smert-simonyana-rekordy-dzyuby-trofei-safonova.html	https://www.championat.com/football/article-6288756-glavnye-futbolnye-sobytiya-2025-goda-chempionstvo-krasnodara-smert-simonyana-rekordy-dzyuby-trofei-safonova.html
+Гарринча	https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D1%80%D0%B8%D0%BD%D1%87%D0%B0
+article-6292764-eks-trener-spartaka-deyan-stankovich-vozglavil-crvenu-zvezdu-press-konferenciya-kommentarii-ob-rpl-sudejstve-transfere-markinosa.html	https://www.championat.com/football/article-6292764-eks-trener-spartaka-deyan-stankovich-vozglavil-crvenu-zvezdu-press-konferenciya-kommentarii-ob-rpl-sudejstve-transfere-markinosa.html
+article-6291730-kto-byl-samym-pervym-vrataryom-krasnodara-intervyu-s-dmitriem-klimovym-molodoj-galickij-safonov-adamov-latyshonok-agkacev.html	https://www.championat.com/football/article-6291730-kto-byl-samym-pervym-vrataryom-krasnodara-intervyu-s-dmitriem-klimovym-molodoj-galickij-safonov-adamov-latyshonok-agkacev.html
+Донадони, Роберто	https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D0%B0%D0%B4%D0%BE%D0%BD%D0%B8,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82%D0%BE
+Дрогба, Дидье	https://ru.wikipedia.org/wiki/%D0%94%D1%80%D0%BE%D0%B3%D0%B1%D0%B0,_%D0%94%D0%B8%D0%B4%D1%8C%D0%B5
+Жирков, Юрий Валентинович	https://ru.wikipedia.org/wiki/%D0%96%D0%B8%D1%80%D0%BA%D0%BE%D0%B2,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%92%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87
+Интернасьонал	https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%81%D1%8C%D0%BE%D0%BD%D0%B0%D0%BB
+Колодин, Денис Алексеевич	https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BD,_%D0%94%D0%B5%D0%BD%D0%B8%D1%81_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B8%D1%87
+Коринтианс	https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B8%D0%BD%D1%82%D0%B8%D0%B0%D0%BD%D1%81
+Криштиану Роналду	https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D1%88%D1%82%D0%B8%D0%B0%D0%BD%D1%83_%D0%A0%D0%BE%D0%BD%D0%B0%D0%BB%D0%B4%D1%83
+Кройф, Йохан	https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%BE%D0%B9%D1%84,_%D0%99%D0%BE%D1%85%D0%B0%D0%BD
+Кэхилл, Гари	https://ru.wikipedia.org/wiki/%D0%9A%D1%8D%D1%85%D0%B8%D0%BB%D0%BB,_%D0%93%D0%B0%D1%80%D0%B8
+Марадона, Диего	https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BD%D0%B0,_%D0%94%D0%B8%D0%B5%D0%B3%D0%BE
+Месси, Лионель	https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%81%D1%81%D0%B8,_%D0%9B%D0%B8%D0%BE%D0%BD%D0%B5%D0%BB%D1%8C
+Рибери, Франк	https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D0%B1%D0%B5%D1%80%D0%B8,_%D0%A4%D1%80%D0%B0%D0%BD%D0%BA
+article-6292060-futbol-obzor-matchej-chempionatov-evropy-20-21-dekabrya-apl-la-liga-seriya-a-bundesliga-real-arsenal-barselona-bavariya-myu.html	https://www.championat.com/football/article-6292060-futbol-obzor-matchej-chempionatov-evropy-20-21-dekabrya-apl-la-liga-seriya-a-bundesliga-real-arsenal-barselona-bavariya-myu.html
+Романцев, Олег Иванович	https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D1%86%D0%B5%D0%B2,_%D0%9E%D0%BB%D0%B5%D0%B3_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87
+3372498.html	https://www.sports.ru/football/blogs/3372498.html
+Руни, Уэйн	https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D0%BD%D0%B8,_%D0%A3%D1%8D%D0%B9%D0%BD
+Синклер, Кристин	https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%BA%D0%BB%D0%B5%D1%80,_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BD
+Сычёв, Дмитрий Евгеньевич	https://ru.wikipedia.org/wiki/%D0%A1%D1%8B%D1%87%D1%91%D0%B2,_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D1%8C%D0%B5%D0%B2%D0%B8%D1%87
+Тотти, Франческо	https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D1%82%D1%82%D0%B8,_%D0%A4%D1%80%D0%B0%D0%BD%D1%87%D0%B5%D1%81%D0%BA%D0%BE
+3373101.html	https://www.sports.ru/football/blogs/3373101.html
+article-6285184-florian-virc-v-liverpule-statistika-kakie-zvyozdy-nachinali-v-apl-huzhe-torres-balotelli-forlan-hojlund-syorlot.html	https://www.championat.com/football/article-6285184-florian-virc-v-liverpule-statistika-kakie-zvyozdy-nachinali-v-apl-huzhe-torres-balotelli-forlan-hojlund-syorlot.html
+Уллевол	https://ru.wikipedia.org/wiki/%D0%A3%D0%BB%D0%BB%D0%B5%D0%B2%D0%BE%D0%BB
+article-6287610-kuda-propal-eks-zaschitnik-cska-i-sbornoj-rossii-kirill-nababkin-intervyu-bolezn-aldonina-akinfeev-dzagoev-chelestini-fan-id.html	https://www.championat.com/football/article-6287610-kuda-propal-eks-zaschitnik-cska-i-sbornoj-rossii-kirill-nababkin-intervyu-bolezn-aldonina-akinfeev-dzagoev-chelestini-fan-id.html
+Финал Лиги чемпионов УЕФА 2012	https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB_%D0%9B%D0%B8%D0%B3%D0%B8_%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A3%D0%95%D0%A4%D0%90_2012
+article-6287224-seriya-a-fiorentina-proval-kluba-rezultaty-pochemu-idut-poslednimi-statistika-sostav-shansy-vyletet-i-spastis.html	https://www.championat.com/football/article-6287224-seriya-a-fiorentina-proval-kluba-rezultaty-pochemu-idut-poslednimi-statistika-sostav-shansy-vyletet-i-spastis.html
+article-6285816-intervyu-s-talantom-akrona-dmitriem-pestryakovym-rabota-s-tedeevym-i-dzyuboj-adaptaciya-vo-vzroslom-futbole-interes-cska.html	https://www.championat.com/football/article-6285816-intervyu-s-talantom-akrona-dmitriem-pestryakovym-rabota-s-tedeevym-i-dzyuboj-adaptaciya-vo-vzroslom-futbole-interes-cska.html
+Шериф (футбольный клуб)	https://ru.wikipedia.org/wiki/%D0%A8%D0%B5%D1%80%D0%B8%D1%84_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)
+Яшин, Лев Иванович	https://ru.wikipedia.org/wiki/%D0%AF%D1%88%D0%B8%D0%BD,_%D0%9B%D0%B5%D0%B2_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87
+3373208.html	https://www.sports.ru/football/blogs/3373208.html
+Акимов, Анатолий Михайлович	https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D0%B8%D0%BC%D0%BE%D0%B2,_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D0%B9_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87
+Алонсо, Хаби	https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%BE%D0%BD%D1%81%D0%BE,_%D0%A5%D0%B0%D0%B1%D0%B8
+Бук, Тони	https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BA,_%D0%A2%D0%BE%D0%BD%D0%B8
+Варди, Джейми	https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D1%80%D0%B4%D0%B8,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D0%B8
+Гивен, Шей	https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%B2%D0%B5%D0%BD,_%D0%A8%D0%B5%D0%B9
+Гоутер, Шон	https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%83%D1%82%D0%B5%D1%80,_%D0%A8%D0%BE%D0%BD
+Дейвис, Джимми (футболист)	https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%B9%D0%B2%D0%B8%D1%81,_%D0%94%D0%B6%D0%B8%D0%BC%D0%BC%D0%B8_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B8%D1%81%D1%82)
+Джурич, Александар	https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D1%83%D1%80%D0%B8%D1%87,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80
+Ди Си Юнайтед	https://ru.wikipedia.org/wiki/%D0%94%D0%B8_%D0%A1%D0%B8_%D0%AE%D0%BD%D0%B0%D0%B9%D1%82%D0%B5%D0%B4
+Дида (вратарь)	https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B4%D0%B0_(%D0%B2%D1%80%D0%B0%D1%82%D0%B0%D1%80%D1%8C)
+Донован, Лэндон	https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD,_%D0%9B%D1%8D%D0%BD%D0%B4%D0%BE%D0%BD
+3373113.html	https://www.sports.ru/football/blogs/3373113.html
+Ибрагимович, Златан	https://ru.wikipedia.org/wiki/%D0%98%D0%B1%D1%80%D0%B0%D0%B3%D0%B8%D0%BC%D0%BE%D0%B2%D0%B8%D1%87,_%D0%97%D0%BB%D0%B0%D1%82%D0%B0%D0%BD
+Йорк, Дуайт	https://ru.wikipedia.org/wiki/%D0%99%D0%BE%D1%80%D0%BA,_%D0%94%D1%83%D0%B0%D0%B9%D1%82
+Каладзе, Каха	https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%B0%D0%B4%D0%B7%D0%B5,_%D0%9A%D0%B0%D1%85%D0%B0
+3371784.html	https://www.sports.ru/football/blogs/3371784.html
+Керр, Сэм	https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D1%80%D1%80,_%D0%A1%D1%8D%D0%BC
+3373100.html	https://www.sports.ru/football/blogs/3373100.html
+Ки Сон Ён	https://ru.wikipedia.org/wiki/%D0%9A%D0%B8_%D0%A1%D0%BE%D0%BD_%D0%81%D0%BD
+Киналья, Джорджо	https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D1%8F,_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6%D0%BE
+3373014.html	https://www.sports.ru/football/blogs/3373014.html
+Крауч, Питер	https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%83%D1%87,_%D0%9F%D0%B8%D1%82%D0%B5%D1%80
+Кубань (футбольный клуб)	https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B1%D0%B0%D0%BD%D1%8C_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)
+3372608.html	https://www.sports.ru/football/blogs/3372608.html
+Лекхето, Джейкоб	https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BA%D1%85%D0%B5%D1%82%D0%BE,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BA%D0%BE%D0%B1
+Лэмпти, Нии	https://ru.wikipedia.org/wiki/%D0%9B%D1%8D%D0%BC%D0%BF%D1%82%D0%B8,_%D0%9D%D0%B8%D0%B8
+Мвого, Ивон	https://ru.wikipedia.org/wiki/%D0%9C%D0%B2%D0%BE%D0%B3%D0%BE,_%D0%98%D0%B2%D0%BE%D0%BD
+Мередит, Билли	https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%80%D0%B5%D0%B4%D0%B8%D1%82,_%D0%91%D0%B8%D0%BB%D0%BB%D0%B8
+Модрич, Лука	https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B4%D1%80%D0%B8%D1%87,_%D0%9B%D1%83%D0%BA%D0%B0
+Москва (футбольный клуб)	https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)
+Мохаммед Салах	https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%85%D0%B0%D0%BC%D0%BC%D0%B5%D0%B4_%D0%A1%D0%B0%D0%BB%D0%B0%D1%85
+
+QUERY	футбол матч
+HITS	928
+Футбол	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB
+Видеопомощники судьи	https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D0%BD%D0%B8%D0%BA%D0%B8_%D1%81%D1%83%D0%B4%D1%8C%D0%B8
+Женский футбол	https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB
+Система автоматического определения голов	https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2
+Тактические построения в футболе	https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B5
+Футбольная культура	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0
+Невероятная команда	https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0
+Разновидности футбола	https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B0
+3372941.html	https://www.sports.ru/football/blogs/3372941.html
+3373161.html	https://www.sports.ru/football/blogs/3373161.html
+Мотобол	https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%82%D0%BE%D0%B1%D0%BE%D0%BB
+Рашбол	https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%88%D0%B1%D0%BE%D0%BB
+Сокка (игра)	https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BA%D0%BA%D0%B0_(%D0%B8%D0%B3%D1%80%D0%B0)
+Футбол в шарах	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB_%D0%B2_%D1%88%D0%B0%D1%80%D0%B0%D1%85
+Футзал	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B7%D0%B0%D0%BB
+Анри, Тьерри	https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%80%D0%B8,_%D0%A2%D1%8C%D0%B5%D1%80%D1%80%D0%B8
+Бергкамп, Деннис	https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%B3%D0%BA%D0%B0%D0%BC%D0%BF,_%D0%94%D0%B5%D0%BD%D0%BD%D0%B8%D1%81
+article-6297154-fnl-pervaya-i-vtoraya-ligi-2025-2026-glavnye-novosti-chto-proishodit-sobytiya-transfery-evseev-tashuev-kamaz-chernomorec-fake.html	https://www.championat.com/football/article-6297154-fnl-pervaya-i-vtoraya-ligi-2025-2026-glavnye-novosti-chto-proishodit-sobytiya-transfery-evseev-tashuev-kamaz-chernomorec-fake.html
+Бест, Джордж	https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%81%D1%82,_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6
+article-6292498-talalaev-luis-enrike-baltika-pszh-pochemu-glavnye-trenery-smotryat-futbol-s-tribuny-kto-tak-delaet-i-zachem.html	https://www.championat.com/football/article-6292498-talalaev-luis-enrike-baltika-pszh-pochemu-glavnye-trenery-smotryat-futbol-s-tribuny-kto-tak-delaet-i-zachem.html
+Бышовец, Анатолий Фёдорович	https://ru.wikipedia.org/wiki/%D0%91%D1%8B%D1%88%D0%BE%D0%B2%D0%B5%D1%86,_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D0%B9_%D0%A4%D1%91%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87
+Газзаев, Валерий Георгиевич	https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B7%D0%B7%D0%B0%D0%B5%D0%B2,_%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D0%B9_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D0%B8%D1%87
+article-6292814-chm-2026-fifa-dzhanni-infantino-skolko-stoit-bilet-na-final-uschemlenie-invalidov-loyalnye-bolelschiki.html	https://www.championat.com/football/article-6292814-chm-2026-fifa-dzhanni-infantino-skolko-stoit-bilet-na-final-uschemlenie-invalidov-loyalnye-bolelschiki.html
+Гарринча	https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D1%80%D0%B8%D0%BD%D1%87%D0%B0
+article-6291730-kto-byl-samym-pervym-vrataryom-krasnodara-intervyu-s-dmitriem-klimovym-molodoj-galickij-safonov-adamov-latyshonok-agkacev.html	https://www.championat.com/football/article-6291730-kto-byl-samym-pervym-vrataryom-krasnodara-intervyu-s-dmitriem-klimovym-molodoj-galickij-safonov-adamov-latyshonok-agkacev.html
+Донадони, Роберто	https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D0%B0%D0%B4%D0%BE%D0%BD%D0%B8,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82%D0%BE
+Дрогба, Дидье	https://ru.wikipedia.org/wiki/%D0%94%D1%80%D0%BE%D0%B3%D0%B1%D0%B0,_%D0%94%D0%B8%D0%B4%D1%8C%D0%B5
+Жирков, Юрий Валентинович	https://ru.wikipedia.org/wiki/%D0%96%D0%B8%D1%80%D0%BA%D0%BE%D0%B2,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%92%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87
+Интернасьонал	https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%81%D1%8C%D0%BE%D0%BD%D0%B0%D0%BB
+Колодин, Денис Алексеевич	https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BD,_%D0%94%D0%B5%D0%BD%D0%B8%D1%81_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B8%D1%87
+Коринтианс	https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B8%D0%BD%D1%82%D0%B8%D0%B0%D0%BD%D1%81
+Криштиану Роналду	https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D1%88%D1%82%D0%B8%D0%B0%D0%BD%D1%83_%D0%A0%D0%BE%D0%BD%D0%B0%D0%BB%D0%B4%D1%83
+Кройф, Йохан	https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%BE%D0%B9%D1%84,_%D0%99%D0%BE%D1%85%D0%B0%D0%BD
+Кэхилл, Гари	https://ru.wikipedia.org/wiki/%D0%9A%D1%8D%D1%85%D0%B8%D0%BB%D0%BB,_%D0%93%D0%B0%D1%80%D0%B8
+Марадона, Диего	https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BD%D0%B0,_%D0%94%D0%B8%D0%B5%D0%B3%D0%BE
+Месси, Лионель	https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%81%D1%81%D0%B8,_%D0%9B%D0%B8%D0%BE%D0%BD%D0%B5%D0%BB%D1%8C
+Рибери, Франк	https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D0%B1%D0%B5%D1%80%D0%B8,_%D0%A4%D1%80%D0%B0%D0%BD%D0%BA
+article-6292060-futbol-obzor-matchej-chempionatov-evropy-20-21-dekabrya-apl-la-liga-seriya-a-bundesliga-real-arsenal-barselona-bavariya-myu.html	https://www.championat.com/football/article-6292060-futbol-obzor-matchej-chempionatov-evropy-20-21-dekabrya-apl-la-liga-seriya-a-bundesliga-real-arsenal-barselona-bavariya-myu.html
+Романцев, Олег Иванович	https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D1%86%D0%B5%D0%B2,_%D0%9E%D0%BB%D0%B5%D0%B3_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87
+3372498.html	https://www.sports.ru/football/blogs/3372498.html
+Руни, Уэйн	https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D0%BD%D0%B8,_%D0%A3%D1%8D%D0%B9%D0%BD
+Синклер, Кристин	https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%BA%D0%BB%D0%B5%D1%80,_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BD
+Сычёв, Дмитрий Евгеньевич	https://ru.wikipedia.org/wiki/%D0%A1%D1%8B%D1%87%D1%91%D0%B2,_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D1%8C%D0%B5%D0%B2%D0%B8%D1%87
+Тотти, Франческо	https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D1%82%D1%82%D0%B8,_%D0%A4%D1%80%D0%B0%D0%BD%D1%87%D0%B5%D1%81%D0%BA%D0%BE
+3373101.html	https://www.sports.ru/football/blogs/3373101.html
+Уллевол	https://ru.wikipedia.org/wiki/%D0%A3%D0%BB%D0%BB%D0%B5%D0%B2%D0%BE%D0%BB
+Финал Лиги чемпионов УЕФА 2012	https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB_%D0%9B%D0%B8%D0%B3%D0%B8_%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A3%D0%95%D0%A4%D0%90_2012
+article-6287224-seriya-a-fiorentina-proval-kluba-rezultaty-pochemu-idut-poslednimi-statistika-sostav-shansy-vyletet-i-spastis.html	https://www.championat.com/football/article-6287224-seriya-a-fiorentina-proval-kluba-rezultaty-pochemu-idut-poslednimi-statistika-sostav-shansy-vyletet-i-spastis.html
+Шериф (футбольный клуб)	https://ru.wikipedia.org/wiki/%D0%A8%D0%B5%D1%80%D0%B8%D1%84_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)
+Яшин, Лев Иванович	https://ru.wikipedia.org/wiki/%D0%AF%D1%88%D0%B8%D0%BD,_%D0%9B%D0%B5%D0%B2_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87
+3373208.html	https://www.sports.ru/football/blogs/3373208.html
+Акимов, Анатолий Михайлович	https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D0%B8%D0%BC%D0%BE%D0%B2,_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D0%B9_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87
+Алонсо, Хаби	https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%BE%D0%BD%D1%81%D0%BE,_%D0%A5%D0%B0%D0%B1%D0%B8
+Бук, Тони	https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BA,_%D0%A2%D0%BE%D0%BD%D0%B8
+Варди, Джейми	https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D1%80%D0%B4%D0%B8,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D0%B8
+Гивен, Шей	https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%B2%D0%B5%D0%BD,_%D0%A8%D0%B5%D0%B9
+Гоутер, Шон	https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%83%D1%82%D0%B5%D1%80,_%D0%A8%D0%BE%D0%BD
+Дейвис, Джимми (футболист)	https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%B9%D0%B2%D0%B8%D1%81,_%D0%94%D0%B6%D0%B8%D0%BC%D0%BC%D0%B8_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B8%D1%81%D1%82)
+Джурич, Александар	https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D1%83%D1%80%D0%B8%D1%87,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80
+Ди Си Юнайтед	https://ru.wikipedia.org/wiki/%D0%94%D0%B8_%D0%A1%D0%B8_%D0%AE%D0%BD%D0%B0%D0%B9%D1%82%D0%B5%D0%B4
+Дида (вратарь)	https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B4%D0%B0_(%D0%B2%D1%80%D0%B0%D1%82%D0%B0%D1%80%D1%8C)
+Донован, Лэндон	https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD,_%D0%9B%D1%8D%D0%BD%D0%B4%D0%BE%D0%BD
+3373113.html	https://www.sports.ru/football/blogs/3373113.html
+Ибрагимович, Златан	https://ru.wikipedia.org/wiki/%D0%98%D0%B1%D1%80%D0%B0%D0%B3%D0%B8%D0%BC%D0%BE%D0%B2%D0%B8%D1%87,_%D0%97%D0%BB%D0%B0%D1%82%D0%B0%D0%BD
+Йорк, Дуайт	https://ru.wikipedia.org/wiki/%D0%99%D0%BE%D1%80%D0%BA,_%D0%94%D1%83%D0%B0%D0%B9%D1%82
+Каладзе, Каха	https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%B0%D0%B4%D0%B7%D0%B5,_%D0%9A%D0%B0%D1%85%D0%B0
+3371784.html	https://www.sports.ru/football/blogs/3371784.html
+Керр, Сэм	https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D1%80%D1%80,_%D0%A1%D1%8D%D0%BC
+3373100.html	https://www.sports.ru/football/blogs/3373100.html
+Ки Сон Ён	https://ru.wikipedia.org/wiki/%D0%9A%D0%B8_%D0%A1%D0%BE%D0%BD_%D0%81%D0%BD
+Киналья, Джорджо	https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D1%8F,_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6%D0%BE
+3373014.html	https://www.sports.ru/football/blogs/3373014.html
+Крауч, Питер	https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%83%D1%87,_%D0%9F%D0%B8%D1%82%D0%B5%D1%80
+Кубань (футбольный клуб)	https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B1%D0%B0%D0%BD%D1%8C_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)
+3372608.html	https://www.sports.ru/football/blogs/3372608.html
+Лекхето, Джейкоб	https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BA%D1%85%D0%B5%D1%82%D0%BE,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BA%D0%BE%D0%B1
+Лэмпти, Нии	https://ru.wikipedia.org/wiki/%D0%9B%D1%8D%D0%BC%D0%BF%D1%82%D0%B8,_%D0%9D%D0%B8%D0%B8
+Мвого, Ивон	https://ru.wikipedia.org/wiki/%D0%9C%D0%B2%D0%BE%D0%B3%D0%BE,_%D0%98%D0%B2%D0%BE%D0%BD
+Мередит, Билли	https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%80%D0%B5%D0%B4%D0%B8%D1%82,_%D0%91%D0%B8%D0%BB%D0%BB%D0%B8
+Модрич, Лука	https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B4%D1%80%D0%B8%D1%87,_%D0%9B%D1%83%D0%BA%D0%B0
+Москва (футбольный клуб)	https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)
+Мохаммед Салах	https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%85%D0%B0%D0%BC%D0%BC%D0%B5%D0%B4_%D0%A1%D0%B0%D0%BB%D0%B0%D1%85
+Недвед, Павел	https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4,_%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB
+3372922.html	https://www.sports.ru/football/blogs/3372922.html
+Нойер, Мануэль	https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B9%D0%B5%D1%80,_%D0%9C%D0%B0%D0%BD%D1%83%D1%8D%D0%BB%D1%8C
+3371206.html	https://www.sports.ru/football/blogs/3371206.html
+Перхун, Сергей Владимирович	https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D1%85%D1%83%D0%BD,_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87
+Петтай, Владимир Леонидович	https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D1%82%D0%B0%D0%B9,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87
+Писарро, Клаудио	https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%81%D0%B0%D1%80%D1%80%D0%BE,_%D0%9A%D0%BB%D0%B0%D1%83%D0%B4%D0%B8%D0%BE
+Попович, Геннадий Иванович	https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BF%D0%BE%D0%B2%D0%B8%D1%87,_%D0%93%D0%B5%D0%BD%D0%BD%D0%B0%D0%B4%D0%B8%D0%B9_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87
+Реднапп, Гарри	https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B4%D0%BD%D0%B0%D0%BF%D0%BF,_%D0%93%D0%B0%D1%80%D1%80%D0%B8
+3372988.html	https://www.sports.ru/football/blogs/3372988.html
+Сачко, Василий Викторович	https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%87%D0%BA%D0%BE,_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B9_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87
+Сборная Германии по футболу	https://ru.wikipedia.org/wiki/%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83
+Тики-така	https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BA%D0%B8-%D1%82%D0%B0%D0%BA%D0%B0
+Тишков, Юрий Иванович	https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D1%88%D0%BA%D0%BE%D0%B2,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87
+3372918.html	https://www.sports.ru/football/blogs/3372918.html
+Томсон, Джон (футболист, 1909)	https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BC%D1%81%D0%BE%D0%BD,_%D0%94%D0%B6%D0%BE%D0%BD_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B8%D1%81%D1%82,_1909)
+Трезеге, Давид	https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B5%D0%B7%D0%B5%D0%B3%D0%B5,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4
+Тумилович, Геннадий Анатольевич	https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D0%BC%D0%B8%D0%BB%D0%BE%D0%B2%D0%B8%D1%87,_%D0%93%D0%B5%D0%BD%D0%BD%D0%B0%D0%B4%D0%B8%D0%B9_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87
+
+QUERY	футбол || матч
+HITS	3289
+Футбол	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB
+Видеопомощники судьи	https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D0%BD%D0%B8%D0%BA%D0%B8_%D1%81%D1%83%D0%B4%D1%8C%D0%B8
+Женский футбол	https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB
+Система автоматического определения голов	https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2
+Тактические построения в футболе	https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B5
+Футбольная культура	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0
+Футбольные ворота	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%B2%D0%BE%D1%80%D0%BE%D1%82%D0%B0
+Фэнтези-футбол	https://ru.wikipedia.org/wiki/%D0%A4%D1%8D%D0%BD%D1%82%D0%B5%D0%B7%D0%B8-%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB
+Невероятная команда	https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0
+Разновидности футбола	https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B0
+3372941.html	https://www.sports.ru/football/blogs/3372941.html
+3373161.html	https://www.sports.ru/football/blogs/3373161.html
+Мотобол	https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%82%D0%BE%D0%B1%D0%BE%D0%BB
+Пляжный футбол	https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D1%8F%D0%B6%D0%BD%D1%8B%D0%B9_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB
+Рашбол	https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%88%D0%B1%D0%BE%D0%BB
+Сокка (игра)	https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BA%D0%BA%D0%B0_(%D0%B8%D0%B3%D1%80%D0%B0)
+Уличный футбол	https://ru.wikipedia.org/wiki/%D0%A3%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB
+Футбол в залах	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB_%D0%B2_%D0%B7%D0%B0%D0%BB%D0%B0%D1%85
+Футбол в шарах	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB_%D0%B2_%D1%88%D0%B0%D1%80%D0%B0%D1%85
+Футволей	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B2%D0%BE%D0%BB%D0%B5%D0%B9
+Футзал	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B7%D0%B0%D0%BB
+Чеканка мяча	https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D0%BA%D0%B0%D0%BD%D0%BA%D0%B0_%D0%BC%D1%8F%D1%87%D0%B0
+Шоубол	https://ru.wikipedia.org/wiki/%D0%A8%D0%BE%D1%83%D0%B1%D0%BE%D0%BB
+Buntkicktgut	https://ru.wikipedia.org/wiki/Buntkicktgut
+article-6296202-raspisanie-sportivnyh-matchej-26-dekabrya-2025-goda-live-translyacii-tekstovye-translyacii-rezultaty-kto-sygraet.html	https://www.championat.com/football/article-6296202-raspisanie-sportivnyh-matchej-26-dekabrya-2025-goda-live-translyacii-tekstovye-translyacii-rezultaty-kto-sygraet.html
+Анри, Тьерри	https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%80%D0%B8,_%D0%A2%D1%8C%D0%B5%D1%80%D1%80%D0%B8
+article-6297350-raspisanie-sportivnyh-matchej-27-dekabrya-2025-goda-live-translyacii-tekstovye-translyacii-rezultaty-kto-sygraet.html	https://www.championat.com/football/article-6297350-raspisanie-sportivnyh-matchej-27-dekabrya-2025-goda-live-translyacii-tekstovye-translyacii-rezultaty-kto-sygraet.html
+Бергкамп, Деннис	https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%B3%D0%BA%D0%B0%D0%BC%D0%BF,_%D0%94%D0%B5%D0%BD%D0%BD%D0%B8%D1%81
+article-6296256-top-futbolnyh-matchej-vyhodnyh-26-29-dekabrya-raspisanie-manchester-siti-myu-liverpul-arsenal-chelsi-egipet-senegal-marokko.html	https://www.championat.com/football/article-6296256-top-futbolnyh-matchej-vyhodnyh-26-29-dekabrya-raspisanie-manchester-siti-myu-liverpul-arsenal-chelsi-egipet-senegal-marokko.html
+article-6297154-fnl-pervaya-i-vtoraya-ligi-2025-2026-glavnye-novosti-chto-proishodit-sobytiya-transfery-evseev-tashuev-kamaz-chernomorec-fake.html	https://www.championat.com/football/article-6297154-fnl-pervaya-i-vtoraya-ligi-2025-2026-glavnye-novosti-chto-proishodit-sobytiya-transfery-evseev-tashuev-kamaz-chernomorec-fake.html
+article-6296164-chempionat-polshi-po-futbolu-sezon-2025-2026-unikalnaya-situaciya-v-turnirnoj-tablice-lidery-autsajdery-legiya-statistika.html	https://www.championat.com/football/article-6296164-chempionat-polshi-po-futbolu-sezon-2025-2026-unikalnaya-situaciya-v-turnirnoj-tablice-lidery-autsajdery-legiya-statistika.html
+Бест, Джордж	https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%81%D1%82,_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6
+article-6295118-manchester-yunajted-brunu-fernandesh-kak-igrat-bez-kapitana-kotoryj-poluchil-travmu-postavit-li-amorim-majnu-mnenie-sostav.html	https://www.championat.com/football/article-6295118-manchester-yunajted-brunu-fernandesh-kak-igrat-bez-kapitana-kotoryj-poluchil-travmu-postavit-li-amorim-majnu-mnenie-sostav.html
+article-6292790-kogda-vozobnovyatsya-la-liga-bundesliga-i-liga-1-raspisanie-turov-v-apl-i-serii-a-bavariya-pszh-real-barselona.html	https://www.championat.com/football/article-6292790-kogda-vozobnovyatsya-la-liga-bundesliga-i-liga-1-raspisanie-turov-v-apl-i-serii-a-bavariya-pszh-real-barselona.html
+article-6295354-kakie-igroki-pomenyayut-klub-zimoj-barinov-boselli-makarov-gondu-diveev-a-kto-eschyo-rpl-2025-2026.html	https://www.championat.com/football/article-6295354-kakie-igroki-pomenyayut-klub-zimoj-barinov-boselli-makarov-gondu-diveev-a-kto-eschyo-rpl-2025-2026.html
+Буффон, Джанлуиджи	https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%84%D1%84%D0%BE%D0%BD,_%D0%94%D0%B6%D0%B0%D0%BD%D0%BB%D1%83%D0%B8%D0%B4%D0%B6%D0%B8
+article-6292498-talalaev-luis-enrike-baltika-pszh-pochemu-glavnye-trenery-smotryat-futbol-s-tribuny-kto-tak-delaet-i-zachem.html	https://www.championat.com/football/article-6292498-talalaev-luis-enrike-baltika-pszh-pochemu-glavnye-trenery-smotryat-futbol-s-tribuny-kto-tak-delaet-i-zachem.html
+article-6295506-kamerun-gabon-kot-d-ivuar-mozambik-alzhir-sudan-burkina-faso-obzor-matchej-kubka-afriki-video-golov-24-dekabrya-2025.html	https://www.championat.com/football/article-6295506-kamerun-gabon-kot-d-ivuar-mozambik-alzhir-sudan-burkina-faso-obzor-matchej-kubka-afriki-video-golov-24-dekabrya-2025.html
+article-6294982-transfery-futbola-zima-2025-2026-real-madrid-endrik-pochemu-klub-otdal-forvarda-v-arendu-v-lion-buduschee-podrobnosti-mnenie.html	https://www.championat.com/football/article-6294982-transfery-futbola-zima-2025-2026-real-madrid-endrik-pochemu-klub-otdal-forvarda-v-arendu-v-lion-buduschee-podrobnosti-mnenie.html
+Бышовец, Анатолий Фёдорович	https://ru.wikipedia.org/wiki/%D0%91%D1%8B%D1%88%D0%BE%D0%B2%D0%B5%D1%86,_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D0%B9_%D0%A4%D1%91%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87
+article-6293754-skandal-v-sbornoj-kameruna-na-kubke-afriki-eto-o-uvolnenie-trenera-nevyzov-onana-abubakara-shupo-motinga.html	https://www.championat.com/football/article-6293754-skandal-v-sbornoj-kameruna-na-kubke-afriki-eto-o-uvolnenie-trenera-nevyzov-onana-abubakara-shupo-motinga.html
+article-6294190-spartak-mozhet-vozglavit-huan-karlos-karsedo-biografiya-pomoschnik-unai-emeri-karera-vilyarreal-arsenal-pszh-pafos.html	https://www.championat.com/football/article-6294190-spartak-mozhet-vozglavit-huan-karlos-karsedo-biografiya-pomoschnik-unai-emeri-karera-vilyarreal-arsenal-pszh-pafos.html
+Газзаев, Валерий Георгиевич	https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B7%D0%B7%D0%B0%D0%B5%D0%B2,_%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D0%B9_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D0%B8%D1%87
+article-6293684-raspisanie-sportivnyh-matchej-24-dekabrya-2025-goda-live-translyacii-tekstovye-translyacii-rezultaty-kto-sygraet.html	https://www.championat.com/football/article-6293684-raspisanie-sportivnyh-matchej-24-dekabrya-2025-goda-live-translyacii-tekstovye-translyacii-rezultaty-kto-sygraet.html
+article-6292814-chm-2026-fifa-dzhanni-infantino-skolko-stoit-bilet-na-final-uschemlenie-invalidov-loyalnye-bolelschiki.html	https://www.championat.com/football/article-6292814-chm-2026-fifa-dzhanni-infantino-skolko-stoit-bilet-na-final-uschemlenie-invalidov-loyalnye-bolelschiki.html
+article-6293782-poluzaschitnik-spartaka-teo-bongonda-zabil-za-sbornuyu-dr-kongo-v-matche-kubka-afriki-benin-video-gola.html	https://www.championat.com/football/article-6293782-poluzaschitnik-spartaka-teo-bongonda-zabil-za-sbornuyu-dr-kongo-v-matche-kubka-afriki-benin-video-gola.html
+article-6293378-byvshij-avtor-chempionata-sergej-titov-k-20-letiyu-chempionata-ob-otdele-futbola-nachale-raboty-analitikom-komandirovkah.html	https://www.championat.com/football/article-6293378-byvshij-avtor-chempionata-sergej-titov-k-20-letiyu-chempionata-ob-otdele-futbola-nachale-raboty-analitikom-komandirovkah.html
+article-6292950-napadayuschij-liverpulya-aleksander-isak-slomal-golenostop-travma-kak-poluchil-sroki-vozvrascheniya-kupyat-li-zamenu-ekitike-semen.html	https://www.championat.com/football/article-6292950-napadayuschij-liverpulya-aleksander-isak-slomal-golenostop-travma-kak-poluchil-sroki-vozvrascheniya-kupyat-li-zamenu-ekitike-semen.html
+article-6288756-glavnye-futbolnye-sobytiya-2025-goda-chempionstvo-krasnodara-smert-simonyana-rekordy-dzyuby-trofei-safonova.html	https://www.championat.com/football/article-6288756-glavnye-futbolnye-sobytiya-2025-goda-chempionstvo-krasnodara-smert-simonyana-rekordy-dzyuby-trofei-safonova.html
+Гарринча	https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D1%80%D0%B8%D0%BD%D1%87%D0%B0
+article-6293022-egipet-zimbabve-2-1-yuar-angola-2-1-mali-zambiya-1-1-obzor-matchej-kubka-afriki-video-golov-salah-22-dekabrya-2025.html	https://www.championat.com/football/article-6293022-egipet-zimbabve-2-1-yuar-angola-2-1-mali-zambiya-1-1-obzor-matchej-kubka-afriki-video-golov-salah-22-dekabrya-2025.html
+article-6292628-raspisanie-sportivnyh-matchej-23-dekabrya-2025-goda-live-translyacii-tekstovye-translyacii-rezultaty-kto-sygraet.html	https://www.championat.com/football/article-6292628-raspisanie-sportivnyh-matchej-23-dekabrya-2025-goda-live-translyacii-tekstovye-translyacii-rezultaty-kto-sygraet.html
+article-6292764-eks-trener-spartaka-deyan-stankovich-vozglavil-crvenu-zvezdu-press-konferenciya-kommentarii-ob-rpl-sudejstve-transfere-markinosa.html	https://www.championat.com/football/article-6292764-eks-trener-spartaka-deyan-stankovich-vozglavil-crvenu-zvezdu-press-konferenciya-kommentarii-ob-rpl-sudejstve-transfere-markinosa.html
+Дель Пьеро, Алессандро	https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BB%D1%8C_%D0%9F%D1%8C%D0%B5%D1%80%D0%BE,_%D0%90%D0%BB%D0%B5%D1%81%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE
+article-6291730-kto-byl-samym-pervym-vrataryom-krasnodara-intervyu-s-dmitriem-klimovym-molodoj-galickij-safonov-adamov-latyshonok-agkacev.html	https://www.championat.com/football/article-6291730-kto-byl-samym-pervym-vrataryom-krasnodara-intervyu-s-dmitriem-klimovym-molodoj-galickij-safonov-adamov-latyshonok-agkacev.html
+Столкновение над Днепродзержинском	https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%BE%D0%BB%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0%D0%B4_%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%BE%D0%B4%D0%B7%D0%B5%D1%80%D0%B6%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%BC
+Донадони, Роберто	https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D0%B0%D0%B4%D0%BE%D0%BD%D0%B8,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82%D0%BE
+Дрогба, Дидье	https://ru.wikipedia.org/wiki/%D0%94%D1%80%D0%BE%D0%B3%D0%B1%D0%B0,_%D0%94%D0%B8%D0%B4%D1%8C%D0%B5
+Жирков, Юрий Валентинович	https://ru.wikipedia.org/wiki/%D0%96%D0%B8%D1%80%D0%BA%D0%BE%D0%B2,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%92%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87
+Интернасьонал	https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%81%D1%8C%D0%BE%D0%BD%D0%B0%D0%BB
+Колодин, Денис Алексеевич	https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BD,_%D0%94%D0%B5%D0%BD%D0%B8%D1%81_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B8%D1%87
+Коринтианс	https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B8%D0%BD%D1%82%D0%B8%D0%B0%D0%BD%D1%81
+Криштиану Роналду	https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D1%88%D1%82%D0%B8%D0%B0%D0%BD%D1%83_%D0%A0%D0%BE%D0%BD%D0%B0%D0%BB%D0%B4%D1%83
+Кройф, Йохан	https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%BE%D0%B9%D1%84,_%D0%99%D0%BE%D1%85%D0%B0%D0%BD
+Кэхилл, Гари	https://ru.wikipedia.org/wiki/%D0%9A%D1%8D%D1%85%D0%B8%D0%BB%D0%BB,_%D0%93%D0%B0%D1%80%D0%B8
+Манчестер Юнайтед	https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D1%87%D0%B5%D1%81%D1%82%D0%B5%D1%80_%D0%AE%D0%BD%D0%B0%D0%B9%D1%82%D0%B5%D0%B4
+ФК «Манчестер Юнайтед» в сезоне 2016/2017	https://ru.wikipedia.org/wiki/%D0%A4%D0%9A_%C2%AB%D0%9C%D0%B0%D0%BD%D1%87%D0%B5%D1%81%D1%82%D0%B5%D1%80_%D0%AE%D0%BD%D0%B0%D0%B9%D1%82%D0%B5%D0%B4%C2%BB_%D0%B2_%D1%81%D0%B5%D0%B7%D0%BE%D0%BD%D0%B5_2016/2017
+Марадона, Диего	https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BD%D0%B0,_%D0%94%D0%B8%D0%B5%D0%B3%D0%BE
+Месси, Лионель	https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%81%D1%81%D0%B8,_%D0%9B%D0%B8%D0%BE%D0%BD%D0%B5%D0%BB%D1%8C
+Рибери, Франк	https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D0%B1%D0%B5%D1%80%D0%B8,_%D0%A4%D1%80%D0%B0%D0%BD%D0%BA
+article-6292060-futbol-obzor-matchej-chempionatov-evropy-20-21-dekabrya-apl-la-liga-seriya-a-bundesliga-real-arsenal-barselona-bavariya-myu.html	https://www.championat.com/football/article-6292060-futbol-obzor-matchej-chempionatov-evropy-20-21-dekabrya-apl-la-liga-seriya-a-bundesliga-real-arsenal-barselona-bavariya-myu.html
+Романцев, Олег Иванович	https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D1%86%D0%B5%D0%B2,_%D0%9E%D0%BB%D0%B5%D0%B3_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87
+article-6291320-napoli-bolonya-final-superkubka-italii-2025-poluzaschitnik-skott-maktominej-statistika-kommentarii-luchshij-igrok-serii-a.html	https://www.championat.com/football/article-6291320-napoli-bolonya-final-superkubka-italii-2025-poluzaschitnik-skott-maktominej-statistika-kommentarii-luchshij-igrok-serii-a.html
+3372498.html	https://www.sports.ru/football/blogs/3372498.html
+Руни, Уэйн	https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D0%BD%D0%B8,_%D0%A3%D1%8D%D0%B9%D0%BD
+article-6291344-raspisanie-sportivnyh-matchej-22-dekabrya-2025-goda-live-translyacii-tekstovye-translyacii-rezultaty-kto-sygraet.html	https://www.championat.com/football/article-6291344-raspisanie-sportivnyh-matchej-22-dekabrya-2025-goda-live-translyacii-tekstovye-translyacii-rezultaty-kto-sygraet.html
+Синклер, Кристин	https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%BA%D0%BB%D0%B5%D1%80,_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BD
+article-6288668-kubok-afriki-2025-format-raspisanie-sostav-grupp-favority-glavnye-zvyozdy-turnira-hakimi-salah-osimhen-mbemo.html	https://www.championat.com/football/article-6288668-kubok-afriki-2025-format-raspisanie-sostav-grupp-favority-glavnye-zvyozdy-turnira-hakimi-salah-osimhen-mbemo.html
+Сычёв, Дмитрий Евгеньевич	https://ru.wikipedia.org/wiki/%D0%A1%D1%8B%D1%87%D1%91%D0%B2,_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D1%8C%D0%B5%D0%B2%D0%B8%D1%87
+article-6290564-tottenhem-liverpul-1-2-obzor-matcha-apl-20-dekabrya-2025-chempionat-anglii-goly-aleksander-isak-ugo-ekitike-risharlison.html	https://www.championat.com/football/article-6290564-tottenhem-liverpul-1-2-obzor-matcha-apl-20-dekabrya-2025-chempionat-anglii-goly-aleksander-isak-ugo-ekitike-risharlison.html
+article-6290038-raspisanie-sportivnyh-matchej-21-dekabrya-2025-goda-live-translyacii-tekstovye-translyacii-rezultaty-kto-sygraet.html	https://www.championat.com/football/article-6290038-raspisanie-sportivnyh-matchej-21-dekabrya-2025-goda-live-translyacii-tekstovye-translyacii-rezultaty-kto-sygraet.html
+article-6290390-napadayuschij-manchester-siti-erling-holand-oboshyol-po-golam-v-apl-krishtianu-ronaldu-pobyot-li-rekord-shirera-kogda-statistika.html	https://www.championat.com/football/article-6290390-napadayuschij-manchester-siti-erling-holand-oboshyol-po-golam-v-apl-krishtianu-ronaldu-pobyot-li-rekord-shirera-kogda-statistika.html
+article-6290122-rekord-artyoma-dzyuby-po-golam-za-sbornuyu-rossii-mogut-perepisat-na-aleksandra-kerzhakova-podrobnosti-20-dekabrya-2025.html	https://www.championat.com/football/article-6290122-rekord-artyoma-dzyuby-po-golam-za-sbornuyu-rossii-mogut-perepisat-na-aleksandra-kerzhakova-podrobnosti-20-dekabrya-2025.html
+Тотти, Франческо	https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D1%82%D1%82%D0%B8,_%D0%A4%D1%80%D0%B0%D0%BD%D1%87%D0%B5%D1%81%D0%BA%D0%BE
+3373101.html	https://www.sports.ru/football/blogs/3373101.html
+article-6289224-tottenhem-liverpul-apl-20-dekabrya-2025-kak-roman-pavlyuchenko-igral-protiv-liverpulya-goly-pochemu-ne-pereshyol-tuda-statistika.html	https://www.championat.com/football/article-6289224-tottenhem-liverpul-apl-20-dekabrya-2025-kak-roman-pavlyuchenko-igral-protiv-liverpulya-goly-pochemu-ne-pereshyol-tuda-statistika.html
+article-6289080-transfery-rpl-zima-2026-chto-budet-s-lusiano-gondu-v-zenite-kuda-mozhet-ujti-chto-govorit-semak-statistika-peregovory-s-cska.html	https://www.championat.com/football/article-6289080-transfery-rpl-zima-2026-chto-budet-s-lusiano-gondu-v-zenite-kuda-mozhet-ujti-chto-govorit-semak-statistika-peregovory-s-cska.html
+article-6288758-raspisanie-sportivnyh-matchej-20-dekabrya-2025-goda-live-translyacii-tekstovye-translyacii-rezultaty-kto-sygraet.html	https://www.championat.com/football/article-6288758-raspisanie-sportivnyh-matchej-20-dekabrya-2025-goda-live-translyacii-tekstovye-translyacii-rezultaty-kto-sygraet.html
+article-6285184-florian-virc-v-liverpule-statistika-kakie-zvyozdy-nachinali-v-apl-huzhe-torres-balotelli-forlan-hojlund-syorlot.html	https://www.championat.com/football/article-6285184-florian-virc-v-liverpule-statistika-kakie-zvyozdy-nachinali-v-apl-huzhe-torres-balotelli-forlan-hojlund-syorlot.html
+article-6288646-fnl-pervaya-i-vtoraya-ligi-2025-2026-glavnye-novosti-sobytiya-transfery-evseev-kamaz-chernomorec-rodina-shinnik.html	https://www.championat.com/football/article-6288646-fnl-pervaya-i-vtoraya-ligi-2025-2026-glavnye-novosti-sobytiya-transfery-evseev-kamaz-chernomorec-rodina-shinnik.html
+Уллевол	https://ru.wikipedia.org/wiki/%D0%A3%D0%BB%D0%BB%D0%B5%D0%B2%D0%BE%D0%BB
+article-6287610-kuda-propal-eks-zaschitnik-cska-i-sbornoj-rossii-kirill-nababkin-intervyu-bolezn-aldonina-akinfeev-dzagoev-chelestini-fan-id.html	https://www.championat.com/football/article-6287610-kuda-propal-eks-zaschitnik-cska-i-sbornoj-rossii-kirill-nababkin-intervyu-bolezn-aldonina-akinfeev-dzagoev-chelestini-fan-id.html
+3373205.html	https://www.sports.ru/football/blogs/3373205.html
+article-6287272-chempionat-rossii-kto-luchshij-rossijskij-novichok-rpl-petrov-rasulov-ignatenko-baltika-dinamo-m-ks-rejting-golosovanie.html	https://www.championat.com/football/article-6287272-chempionat-rossii-kto-luchshij-rossijskij-novichok-rpl-petrov-rasulov-ignatenko-baltika-dinamo-m-ks-rejting-golosovanie.html
+Финал Лиги чемпионов УЕФА 2012	https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB_%D0%9B%D0%B8%D0%B3%D0%B8_%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A3%D0%95%D0%A4%D0%90_2012
+article-6286468-chempionat-francii-kak-igraet-mejson-grinvud-za-marsel-luchshij-bombardir-ligi-1-statistika-perezapusk-karery-sbornaya-anglii.html	https://www.championat.com/football/article-6286468-chempionat-francii-kak-igraet-mejson-grinvud-za-marsel-luchshij-bombardir-ligi-1-statistika-perezapusk-karery-sbornaya-anglii.html
+article-6287224-seriya-a-fiorentina-proval-kluba-rezultaty-pochemu-idut-poslednimi-statistika-sostav-shansy-vyletet-i-spastis.html	https://www.championat.com/football/article-6287224-seriya-a-fiorentina-proval-kluba-rezultaty-pochemu-idut-poslednimi-statistika-sostav-shansy-vyletet-i-spastis.html
+article-6287156-matvej-safonov-pszh-seriya-penalti-v-matche-s-flamengo-reakciya-smi-na-chetyre-otbityh-penalti-chto-pishut-v-mire-18-dekabrya.html	https://www.championat.com/football/article-6287156-matvej-safonov-pszh-seriya-penalti-v-matche-s-flamengo-reakciya-smi-na-chetyre-otbityh-penalti-chto-pishut-v-mire-18-dekabrya.html
+article-6285816-intervyu-s-talantom-akrona-dmitriem-pestryakovym-rabota-s-tedeevym-i-dzyuboj-adaptaciya-vo-vzroslom-futbole-interes-cska.html	https://www.championat.com/football/article-6285816-intervyu-s-talantom-akrona-dmitriem-pestryakovym-rabota-s-tedeevym-i-dzyuboj-adaptaciya-vo-vzroslom-futbole-interes-cska.html
+Шериф (футбольный клуб)	https://ru.wikipedia.org/wiki/%D0%A8%D0%B5%D1%80%D0%B8%D1%84_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)
+
+QUERY	футбол && !матч
+HITS	405
+Футбольные ворота	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%B2%D0%BE%D1%80%D0%BE%D1%82%D0%B0
+Пляжный футбол	https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D1%8F%D0%B6%D0%BD%D1%8B%D0%B9_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB
+Уличный футбол	https://ru.wikipedia.org/wiki/%D0%A3%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB
+Футбол в залах	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB_%D0%B2_%D0%B7%D0%B0%D0%BB%D0%B0%D1%85
+Футволей	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B2%D0%BE%D0%BB%D0%B5%D0%B9
+Чеканка мяча	https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D0%BA%D0%B0%D0%BD%D0%BA%D0%B0_%D0%BC%D1%8F%D1%87%D0%B0
+Шоубол	https://ru.wikipedia.org/wiki/%D0%A8%D0%BE%D1%83%D0%B1%D0%BE%D0%BB
+Buntkicktgut	https://ru.wikipedia.org/wiki/Buntkicktgut
+article-6295354-kakie-igroki-pomenyayut-klub-zimoj-barinov-boselli-makarov-gondu-diveev-a-kto-eschyo-rpl-2025-2026.html	https://www.championat.com/football/article-6295354-kakie-igroki-pomenyayut-klub-zimoj-barinov-boselli-makarov-gondu-diveev-a-kto-eschyo-rpl-2025-2026.html
+article-6295506-kamerun-gabon-kot-d-ivuar-mozambik-alzhir-sudan-burkina-faso-obzor-matchej-kubka-afriki-video-golov-24-dekabrya-2025.html	https://www.championat.com/football/article-6295506-kamerun-gabon-kot-d-ivuar-mozambik-alzhir-sudan-burkina-faso-obzor-matchej-kubka-afriki-video-golov-24-dekabrya-2025.html
+article-6294982-transfery-futbola-zima-2025-2026-real-madrid-endrik-pochemu-klub-otdal-forvarda-v-arendu-v-lion-buduschee-podrobnosti-mnenie.html	https://www.championat.com/football/article-6294982-transfery-futbola-zima-2025-2026-real-madrid-endrik-pochemu-klub-otdal-forvarda-v-arendu-v-lion-buduschee-podrobnosti-mnenie.html
+article-6293378-byvshij-avtor-chempionata-sergej-titov-k-20-letiyu-chempionata-ob-otdele-futbola-nachale-raboty-analitikom-komandirovkah.html	https://www.championat.com/football/article-6293378-byvshij-avtor-chempionata-sergej-titov-k-20-letiyu-chempionata-ob-otdele-futbola-nachale-raboty-analitikom-komandirovkah.html
+article-6292950-napadayuschij-liverpulya-aleksander-isak-slomal-golenostop-travma-kak-poluchil-sroki-vozvrascheniya-kupyat-li-zamenu-ekitike-semen.html	https://www.championat.com/football/article-6292950-napadayuschij-liverpulya-aleksander-isak-slomal-golenostop-travma-kak-poluchil-sroki-vozvrascheniya-kupyat-li-zamenu-ekitike-semen.html
+article-6288756-glavnye-futbolnye-sobytiya-2025-goda-chempionstvo-krasnodara-smert-simonyana-rekordy-dzyuby-trofei-safonova.html	https://www.championat.com/football/article-6288756-glavnye-futbolnye-sobytiya-2025-goda-chempionstvo-krasnodara-smert-simonyana-rekordy-dzyuby-trofei-safonova.html
+article-6292764-eks-trener-spartaka-deyan-stankovich-vozglavil-crvenu-zvezdu-press-konferenciya-kommentarii-ob-rpl-sudejstve-transfere-markinosa.html	https://www.championat.com/football/article-6292764-eks-trener-spartaka-deyan-stankovich-vozglavil-crvenu-zvezdu-press-konferenciya-kommentarii-ob-rpl-sudejstve-transfere-markinosa.html
+article-6285184-florian-virc-v-liverpule-statistika-kakie-zvyozdy-nachinali-v-apl-huzhe-torres-balotelli-forlan-hojlund-syorlot.html	https://www.championat.com/football/article-6285184-florian-virc-v-liverpule-statistika-kakie-zvyozdy-nachinali-v-apl-huzhe-torres-balotelli-forlan-hojlund-syorlot.html
+article-6287610-kuda-propal-eks-zaschitnik-cska-i-sbornoj-rossii-kirill-nababkin-intervyu-bolezn-aldonina-akinfeev-dzagoev-chelestini-fan-id.html	https://www.championat.com/football/article-6287610-kuda-propal-eks-zaschitnik-cska-i-sbornoj-rossii-kirill-nababkin-intervyu-bolezn-aldonina-akinfeev-dzagoev-chelestini-fan-id.html
+article-6285816-intervyu-s-talantom-akrona-dmitriem-pestryakovym-rabota-s-tedeevym-i-dzyuboj-adaptaciya-vo-vzroslom-futbole-interes-cska.html	https://www.championat.com/football/article-6285816-intervyu-s-talantom-akrona-dmitriem-pestryakovym-rabota-s-tedeevym-i-dzyuboj-adaptaciya-vo-vzroslom-futbole-interes-cska.html
+Олеников, Николай Владимирович	https://ru.wikipedia.org/wiki/%D0%9E%D0%BB%D0%B5%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87
+3372897.html	https://www.sports.ru/football/blogs/3372897.html
+3372899.html	https://www.sports.ru/football/blogs/3372899.html
+3369622.html	https://www.sports.ru/football/blogs/3369622.html
+3372730.html	https://www.sports.ru/football/blogs/3372730.html
+3372557.html	https://www.sports.ru/football/blogs/3372557.html
+3372611.html	https://www.sports.ru/football/blogs/3372611.html
+3372538.html	https://www.sports.ru/football/blogs/3372538.html
+Футбол в Саудовской Аравии	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB_%D0%B2_%D0%A1%D0%B0%D1%83%D0%B4%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_%D0%90%D1%80%D0%B0%D0%B2%D0%B8%D0%B8
+3372297.html	https://www.sports.ru/football/blogs/3372297.html
+3371961.html	https://www.sports.ru/football/blogs/3371961.html
+3371731.html	https://www.sports.ru/football/blogs/3371731.html
+3371041.html	https://www.sports.ru/football/blogs/3371041.html
+3370948.html	https://www.sports.ru/football/blogs/3370948.html
+3370561.html	https://www.sports.ru/football/blogs/3370561.html
+3370579.html	https://www.sports.ru/football/blogs/3370579.html
+3370564.html	https://www.sports.ru/football/blogs/3370564.html
+3369487.html	https://www.sports.ru/football/blogs/3369487.html
+3365396.html	https://www.sports.ru/football/blogs/3365396.html
+3369481.html	https://www.sports.ru/football/blogs/3369481.html
+3369483.html	https://www.sports.ru/football/blogs/3369483.html
+3369309.html	https://www.sports.ru/football/blogs/3369309.html
+3366747.html	https://www.sports.ru/football/blogs/3366747.html
+3369173.html	https://www.sports.ru/football/blogs/3369173.html
+3368321.html	https://www.sports.ru/football/blogs/3368321.html
+3368054.html	https://www.sports.ru/football/blogs/3368054.html
+3368556.html	https://www.sports.ru/football/blogs/3368556.html
+3347777.html	https://www.sports.ru/football/blogs/3347777.html
+3368566.html	https://www.sports.ru/football/blogs/3368566.html
+3367709.html	https://www.sports.ru/football/blogs/3367709.html
+3368506.html	https://www.sports.ru/football/blogs/3368506.html
+3368299.html	https://www.sports.ru/football/blogs/3368299.html
+3367882.html	https://www.sports.ru/football/blogs/3367882.html
+3368221.html	https://www.sports.ru/football/blogs/3368221.html
+3367777.html	https://www.sports.ru/football/blogs/3367777.html
+История ФИФА	https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%A4%D0%98%D0%A4%D0%90
+3367866.html	https://www.sports.ru/football/blogs/3367866.html
+Первенство России среди любительских футбольных клубов	https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%B5%D0%BD%D1%81%D1%82%D0%B2%D0%BE_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%BB%D1%8E%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D1%85_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D1%85_%D0%BA%D0%BB%D1%83%D0%B1%D0%BE%D0%B2
+3367677.html	https://www.sports.ru/football/blogs/3367677.html
+Чемпионат Одессы по футболу	https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9E%D0%B4%D0%B5%D1%81%D1%81%D1%8B_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83
+3367637.html	https://www.sports.ru/football/blogs/3367637.html
+Футбольный мяч	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BC%D1%8F%D1%87
+3367533.html	https://www.sports.ru/football/blogs/3367533.html
+3367491.html	https://www.sports.ru/football/blogs/3367491.html
+3367403.html	https://www.sports.ru/football/blogs/3367403.html
+3367214.html	https://www.sports.ru/football/blogs/3367214.html
+3367218.html	https://www.sports.ru/football/blogs/3367218.html
+Портал:Украинский футбол	https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB
+Вбрасывание мяча (футбол)	https://ru.wikipedia.org/wiki/%D0%92%D0%B1%D1%80%D0%B0%D1%81%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BC%D1%8F%D1%87%D0%B0_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB)
+Международный совет футбольных ассоциаций	https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B2%D0%B5%D1%82_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D1%85_%D0%B0%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%86%D0%B8%D0%B9
+Пенальти (футбол)	https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BD%D0%B0%D0%BB%D1%8C%D1%82%D0%B8_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB)
+Футбольная форма	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D0%B0
+Футбольное поле	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5
+Футбольный удар	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%83%D0%B4%D0%B0%D1%80
+Штрафной и свободный удары (футбол)	https://ru.wikipedia.org/wiki/%D0%A8%D1%82%D1%80%D0%B0%D1%84%D0%BD%D0%BE%D0%B9_%D0%B8_%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%83%D0%B4%D0%B0%D1%80%D1%8B_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB)
+Футбольное обозрение	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%BE%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D0%B5
+Футбольный клуб (телепередача)	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1_(%D1%82%D0%B5%D0%BB%D0%B5%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B0)
+3364080.html	https://www.sports.ru/football/blogs/3364080.html
+Бол-бой	https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB-%D0%B1%D0%BE%D0%B9
+Бутсы	https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%82%D1%81%D1%8B
+Жогу Бониту	https://ru.wikipedia.org/wiki/%D0%96%D0%BE%D0%B3%D1%83_%D0%91%D0%BE%D0%BD%D0%B8%D1%82%D1%83
+Марсельская рулетка	https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%81%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D1%83%D0%BB%D0%B5%D1%82%D0%BA%D0%B0
+Сухой лист	https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D1%85%D0%BE%D0%B9_%D0%BB%D0%B8%D1%81%D1%82
+Тотальный футбол	https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB
+Футболисты (скульптура Чайкова)	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B8%D1%81%D1%82%D1%8B_(%D1%81%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D1%83%D1%80%D0%B0_%D0%A7%D0%B0%D0%B9%D0%BA%D0%BE%D0%B2%D0%B0)
+FIFA 11	https://ru.wikipedia.org/wiki/FIFA_11
+FIFA 16	https://ru.wikipedia.org/wiki/FIFA_16
+FIFA 20	https://ru.wikipedia.org/wiki/FIFA_20
+FIFA Street (игра, 2012)	https://ru.wikipedia.org/wiki/FIFA_Street_(%D0%B8%D0%B3%D1%80%D0%B0,_2012)
+FIFA World	https://ru.wikipedia.org/wiki/FIFA_World
+The Mission (рекламный ролик)	https://ru.wikipedia.org/wiki/The_Mission_(%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%BD%D1%8B%D0%B9_%D1%80%D0%BE%D0%BB%D0%B8%D0%BA)
+Вратарь (фильм, 1936)	https://ru.wikipedia.org/wiki/%D0%92%D1%80%D0%B0%D1%82%D0%B0%D1%80%D1%8C_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1936)
+Спортивная честь	https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D1%87%D0%B5%D1%81%D1%82%D1%8C
+Убойный футбол	https://ru.wikipedia.org/wiki/%D0%A3%D0%B1%D0%BE%D0%B9%D0%BD%D1%8B%D0%B9_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB
+Чудо Берна	https://ru.wikipedia.org/wiki/%D0%A7%D1%83%D0%B4%D0%BE_%D0%91%D0%B5%D1%80%D0%BD%D0%B0
+article-6282262-chempionat-rossii-kak-provodyat-sezon-arendovannye-igroki-top-klubov-rpl-zenit-spartak-cska-dinamo-m-lokomotiv-krasnodar.html	https://www.championat.com/football/article-6282262-chempionat-rossii-kak-provodyat-sezon-arendovannye-igroki-top-klubov-rpl-zenit-spartak-cska-dinamo-m-lokomotiv-krasnodar.html
+article-6282420-intervyu-s-dmitriem-sychyovym-prezidentskij-post-v-irtyshe-populyarnost-futbola-i-hokkeya-v-omske-samochuvstvie-evgeniya-aldonina.html	https://www.championat.com/football/article-6282420-intervyu-s-dmitriem-sychyovym-prezidentskij-post-v-irtyshe-populyarnost-futbola-i-hokkeya-v-omske-samochuvstvie-evgeniya-aldonina.html
+article-6280538-rafael-urazbahtin-intervyu-s-glavnym-trenerom-kajrata-rezultaty-v-lch-izmeneniya-v-kazahstane-transfer-satpaeva-v-chelsi.html	https://www.championat.com/football/article-6280538-rafael-urazbahtin-intervyu-s-glavnym-trenerom-kajrata-rezultaty-v-lch-izmeneniya-v-kazahstane-transfer-satpaeva-v-chelsi.html
+article-6280294-liverpul-brajton-apl-13-dekabrya-2025-skandal-salaha-konflikty-zvyozd-s-klubami-messi-ronaldu-mbappe-nejmar-suares-bejl.html	https://www.championat.com/football/article-6280294-liverpul-brajton-apl-13-dekabrya-2025-skandal-salaha-konflikty-zvyozd-s-klubami-messi-ronaldu-mbappe-nejmar-suares-bejl.html
+article-6276810-andrej-tihonov-pokinul-enisej-prichiny-otstavki-podrobnosti-statistika-rezultaty-transfery-pervaya-liga-2025-2026.html	https://www.championat.com/football/article-6276810-andrej-tihonov-pokinul-enisej-prichiny-otstavki-podrobnosti-statistika-rezultaty-transfery-pervaya-liga-2025-2026.html
+article-6273412-krasnodar-cska-3-2-obzor-matcha-rpl-video-goly-mojzes-kordoba-viktor-sa-batchi-alves-7-dekabrya-2025-chempionat-rossii.html	https://www.championat.com/football/article-6273412-krasnodar-cska-3-2-obzor-matcha-rpl-video-goly-mojzes-kordoba-viktor-sa-batchi-alves-7-dekabrya-2025-chempionat-rossii.html
+АГМК (футбольный клуб)	https://ru.wikipedia.org/wiki/%D0%90%D0%93%D0%9C%D0%9A_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)
+
+QUERY	футбол && (матч || чемпионат)
+HITS	1064
+Футбол	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB
+Видеопомощники судьи	https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D0%BD%D0%B8%D0%BA%D0%B8_%D1%81%D1%83%D0%B4%D1%8C%D0%B8
+Женский футбол	https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB
+Система автоматического определения голов	https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2
+Тактические построения в футболе	https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B5
+Футбольная культура	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0
+Невероятная команда	https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0
+Разновидности футбола	https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B0
+3372941.html	https://www.sports.ru/football/blogs/3372941.html
+3373161.html	https://www.sports.ru/football/blogs/3373161.html
+Мотобол	https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%82%D0%BE%D0%B1%D0%BE%D0%BB
+Пляжный футбол	https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D1%8F%D0%B6%D0%BD%D1%8B%D0%B9_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB
+Рашбол	https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%88%D0%B1%D0%BE%D0%BB
+Сокка (игра)	https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BA%D0%BA%D0%B0_(%D0%B8%D0%B3%D1%80%D0%B0)
+Уличный футбол	https://ru.wikipedia.org/wiki/%D0%A3%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB
+Футбол в залах	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB_%D0%B2_%D0%B7%D0%B0%D0%BB%D0%B0%D1%85
+Футбол в шарах	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB_%D0%B2_%D1%88%D0%B0%D1%80%D0%B0%D1%85
+Футзал	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B7%D0%B0%D0%BB
+Шоубол	https://ru.wikipedia.org/wiki/%D0%A8%D0%BE%D1%83%D0%B1%D0%BE%D0%BB
+Анри, Тьерри	https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%80%D0%B8,_%D0%A2%D1%8C%D0%B5%D1%80%D1%80%D0%B8
+Бергкамп, Деннис	https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%B3%D0%BA%D0%B0%D0%BC%D0%BF,_%D0%94%D0%B5%D0%BD%D0%BD%D0%B8%D1%81
+article-6297154-fnl-pervaya-i-vtoraya-ligi-2025-2026-glavnye-novosti-chto-proishodit-sobytiya-transfery-evseev-tashuev-kamaz-chernomorec-fake.html	https://www.championat.com/football/article-6297154-fnl-pervaya-i-vtoraya-ligi-2025-2026-glavnye-novosti-chto-proishodit-sobytiya-transfery-evseev-tashuev-kamaz-chernomorec-fake.html
+Бест, Джордж	https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%81%D1%82,_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6
+article-6292498-talalaev-luis-enrike-baltika-pszh-pochemu-glavnye-trenery-smotryat-futbol-s-tribuny-kto-tak-delaet-i-zachem.html	https://www.championat.com/football/article-6292498-talalaev-luis-enrike-baltika-pszh-pochemu-glavnye-trenery-smotryat-futbol-s-tribuny-kto-tak-delaet-i-zachem.html
+article-6294982-transfery-futbola-zima-2025-2026-real-madrid-endrik-pochemu-klub-otdal-forvarda-v-arendu-v-lion-buduschee-podrobnosti-mnenie.html	https://www.championat.com/football/article-6294982-transfery-futbola-zima-2025-2026-real-madrid-endrik-pochemu-klub-otdal-forvarda-v-arendu-v-lion-buduschee-podrobnosti-mnenie.html
+Бышовец, Анатолий Фёдорович	https://ru.wikipedia.org/wiki/%D0%91%D1%8B%D1%88%D0%BE%D0%B2%D0%B5%D1%86,_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D0%B9_%D0%A4%D1%91%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87
+Газзаев, Валерий Георгиевич	https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B7%D0%B7%D0%B0%D0%B5%D0%B2,_%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D0%B9_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D0%B8%D1%87
+article-6292814-chm-2026-fifa-dzhanni-infantino-skolko-stoit-bilet-na-final-uschemlenie-invalidov-loyalnye-bolelschiki.html	https://www.championat.com/football/article-6292814-chm-2026-fifa-dzhanni-infantino-skolko-stoit-bilet-na-final-uschemlenie-invalidov-loyalnye-bolelschiki.html
+article-6292950-napadayuschij-liverpulya-aleksander-isak-slomal-golenostop-travma-kak-poluchil-sroki-vozvrascheniya-kupyat-li-zamenu-ekitike-semen.html	https://www.championat.com/football/article-6292950-napadayuschij-liverpulya-aleksander-isak-slomal-golenostop-travma-kak-poluchil-sroki-vozvrascheniya-kupyat-li-zamenu-ekitike-semen.html
+Гарринча	https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D1%80%D0%B8%D0%BD%D1%87%D0%B0
+article-6292764-eks-trener-spartaka-deyan-stankovich-vozglavil-crvenu-zvezdu-press-konferenciya-kommentarii-ob-rpl-sudejstve-transfere-markinosa.html	https://www.championat.com/football/article-6292764-eks-trener-spartaka-deyan-stankovich-vozglavil-crvenu-zvezdu-press-konferenciya-kommentarii-ob-rpl-sudejstve-transfere-markinosa.html
+article-6291730-kto-byl-samym-pervym-vrataryom-krasnodara-intervyu-s-dmitriem-klimovym-molodoj-galickij-safonov-adamov-latyshonok-agkacev.html	https://www.championat.com/football/article-6291730-kto-byl-samym-pervym-vrataryom-krasnodara-intervyu-s-dmitriem-klimovym-molodoj-galickij-safonov-adamov-latyshonok-agkacev.html
+Донадони, Роберто	https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D0%B0%D0%B4%D0%BE%D0%BD%D0%B8,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82%D0%BE
+Дрогба, Дидье	https://ru.wikipedia.org/wiki/%D0%94%D1%80%D0%BE%D0%B3%D0%B1%D0%B0,_%D0%94%D0%B8%D0%B4%D1%8C%D0%B5
+Жирков, Юрий Валентинович	https://ru.wikipedia.org/wiki/%D0%96%D0%B8%D1%80%D0%BA%D0%BE%D0%B2,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%92%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87
+Интернасьонал	https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%81%D1%8C%D0%BE%D0%BD%D0%B0%D0%BB
+Колодин, Денис Алексеевич	https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BD,_%D0%94%D0%B5%D0%BD%D0%B8%D1%81_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B8%D1%87
+Коринтианс	https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B8%D0%BD%D1%82%D0%B8%D0%B0%D0%BD%D1%81
+Криштиану Роналду	https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D1%88%D1%82%D0%B8%D0%B0%D0%BD%D1%83_%D0%A0%D0%BE%D0%BD%D0%B0%D0%BB%D0%B4%D1%83
+Кройф, Йохан	https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%BE%D0%B9%D1%84,_%D0%99%D0%BE%D1%85%D0%B0%D0%BD
+Кэхилл, Гари	https://ru.wikipedia.org/wiki/%D0%9A%D1%8D%D1%85%D0%B8%D0%BB%D0%BB,_%D0%93%D0%B0%D1%80%D0%B8
+Марадона, Диего	https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BD%D0%B0,_%D0%94%D0%B8%D0%B5%D0%B3%D0%BE
+Месси, Лионель	https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%81%D1%81%D0%B8,_%D0%9B%D0%B8%D0%BE%D0%BD%D0%B5%D0%BB%D1%8C
+Рибери, Франк	https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D0%B1%D0%B5%D1%80%D0%B8,_%D0%A4%D1%80%D0%B0%D0%BD%D0%BA
+article-6292060-futbol-obzor-matchej-chempionatov-evropy-20-21-dekabrya-apl-la-liga-seriya-a-bundesliga-real-arsenal-barselona-bavariya-myu.html	https://www.championat.com/football/article-6292060-futbol-obzor-matchej-chempionatov-evropy-20-21-dekabrya-apl-la-liga-seriya-a-bundesliga-real-arsenal-barselona-bavariya-myu.html
+Романцев, Олег Иванович	https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D1%86%D0%B5%D0%B2,_%D0%9E%D0%BB%D0%B5%D0%B3_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87
+3372498.html	https://www.sports.ru/football/blogs/3372498.html
+Руни, Уэйн	https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D0%BD%D0%B8,_%D0%A3%D1%8D%D0%B9%D0%BD
+Синклер, Кристин	https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%BA%D0%BB%D0%B5%D1%80,_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BD
+Сычёв, Дмитрий Евгеньевич	https://ru.wikipedia.org/wiki/%D0%A1%D1%8B%D1%87%D1%91%D0%B2,_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D1%8C%D0%B5%D0%B2%D0%B8%D1%87
+Тотти, Франческо	https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D1%82%D1%82%D0%B8,_%D0%A4%D1%80%D0%B0%D0%BD%D1%87%D0%B5%D1%81%D0%BA%D0%BE
+3373101.html	https://www.sports.ru/football/blogs/3373101.html
+article-6285184-florian-virc-v-liverpule-statistika-kakie-zvyozdy-nachinali-v-apl-huzhe-torres-balotelli-forlan-hojlund-syorlot.html	https://www.championat.com/football/article-6285184-florian-virc-v-liverpule-statistika-kakie-zvyozdy-nachinali-v-apl-huzhe-torres-balotelli-forlan-hojlund-syorlot.html
+Уллевол	https://ru.wikipedia.org/wiki/%D0%A3%D0%BB%D0%BB%D0%B5%D0%B2%D0%BE%D0%BB
+Финал Лиги чемпионов УЕФА 2012	https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB_%D0%9B%D0%B8%D0%B3%D0%B8_%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A3%D0%95%D0%A4%D0%90_2012
+article-6287224-seriya-a-fiorentina-proval-kluba-rezultaty-pochemu-idut-poslednimi-statistika-sostav-shansy-vyletet-i-spastis.html	https://www.championat.com/football/article-6287224-seriya-a-fiorentina-proval-kluba-rezultaty-pochemu-idut-poslednimi-statistika-sostav-shansy-vyletet-i-spastis.html
+article-6285816-intervyu-s-talantom-akrona-dmitriem-pestryakovym-rabota-s-tedeevym-i-dzyuboj-adaptaciya-vo-vzroslom-futbole-interes-cska.html	https://www.championat.com/football/article-6285816-intervyu-s-talantom-akrona-dmitriem-pestryakovym-rabota-s-tedeevym-i-dzyuboj-adaptaciya-vo-vzroslom-futbole-interes-cska.html
+Шериф (футбольный клуб)	https://ru.wikipedia.org/wiki/%D0%A8%D0%B5%D1%80%D0%B8%D1%84_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)
+Яшин, Лев Иванович	https://ru.wikipedia.org/wiki/%D0%AF%D1%88%D0%B8%D0%BD,_%D0%9B%D0%B5%D0%B2_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87
+3373208.html	https://www.sports.ru/football/blogs/3373208.html
+Акимов, Анатолий Михайлович	https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D0%B8%D0%BC%D0%BE%D0%B2,_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D0%B9_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87
+Алонсо, Хаби	https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%BE%D0%BD%D1%81%D0%BE,_%D0%A5%D0%B0%D0%B1%D0%B8
+Бук, Тони	https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BA,_%D0%A2%D0%BE%D0%BD%D0%B8
+Варди, Джейми	https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D1%80%D0%B4%D0%B8,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D0%B8
+Гивен, Шей	https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%B2%D0%B5%D0%BD,_%D0%A8%D0%B5%D0%B9
+Гоутер, Шон	https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%83%D1%82%D0%B5%D1%80,_%D0%A8%D0%BE%D0%BD
+Дейвис, Джимми (футболист)	https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%B9%D0%B2%D0%B8%D1%81,_%D0%94%D0%B6%D0%B8%D0%BC%D0%BC%D0%B8_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B8%D1%81%D1%82)
+Джурич, Александар	https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D1%83%D1%80%D0%B8%D1%87,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80
+Ди Си Юнайтед	https://ru.wikipedia.org/wiki/%D0%94%D0%B8_%D0%A1%D0%B8_%D0%AE%D0%BD%D0%B0%D0%B9%D1%82%D0%B5%D0%B4
+Дида (вратарь)	https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B4%D0%B0_(%D0%B2%D1%80%D0%B0%D1%82%D0%B0%D1%80%D1%8C)
+Донован, Лэндон	https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD,_%D0%9B%D1%8D%D0%BD%D0%B4%D0%BE%D0%BD
+3373113.html	https://www.sports.ru/football/blogs/3373113.html
+Ибрагимович, Златан	https://ru.wikipedia.org/wiki/%D0%98%D0%B1%D1%80%D0%B0%D0%B3%D0%B8%D0%BC%D0%BE%D0%B2%D0%B8%D1%87,_%D0%97%D0%BB%D0%B0%D1%82%D0%B0%D0%BD
+Йорк, Дуайт	https://ru.wikipedia.org/wiki/%D0%99%D0%BE%D1%80%D0%BA,_%D0%94%D1%83%D0%B0%D0%B9%D1%82
+Каладзе, Каха	https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%B0%D0%B4%D0%B7%D0%B5,_%D0%9A%D0%B0%D1%85%D0%B0
+3371784.html	https://www.sports.ru/football/blogs/3371784.html
+Керр, Сэм	https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D1%80%D1%80,_%D0%A1%D1%8D%D0%BC
+3373100.html	https://www.sports.ru/football/blogs/3373100.html
+Ки Сон Ён	https://ru.wikipedia.org/wiki/%D0%9A%D0%B8_%D0%A1%D0%BE%D0%BD_%D0%81%D0%BD
+Киналья, Джорджо	https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D1%8F,_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6%D0%BE
+3373014.html	https://www.sports.ru/football/blogs/3373014.html
+Крауч, Питер	https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%83%D1%87,_%D0%9F%D0%B8%D1%82%D0%B5%D1%80
+Кубань (футбольный клуб)	https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B1%D0%B0%D0%BD%D1%8C_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)
+3372608.html	https://www.sports.ru/football/blogs/3372608.html
+Лекхето, Джейкоб	https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BA%D1%85%D0%B5%D1%82%D0%BE,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BA%D0%BE%D0%B1
+Лэмпти, Нии	https://ru.wikipedia.org/wiki/%D0%9B%D1%8D%D0%BC%D0%BF%D1%82%D0%B8,_%D0%9D%D0%B8%D0%B8
+Мвого, Ивон	https://ru.wikipedia.org/wiki/%D0%9C%D0%B2%D0%BE%D0%B3%D0%BE,_%D0%98%D0%B2%D0%BE%D0%BD
+Мередит, Билли	https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%80%D0%B5%D0%B4%D0%B8%D1%82,_%D0%91%D0%B8%D0%BB%D0%BB%D0%B8
+Модрич, Лука	https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B4%D1%80%D0%B8%D1%87,_%D0%9B%D1%83%D0%BA%D0%B0
+Москва (футбольный клуб)	https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)
+Мохаммед Салах	https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%85%D0%B0%D0%BC%D0%BC%D0%B5%D0%B4_%D0%A1%D0%B0%D0%BB%D0%B0%D1%85
+Недвед, Павел	https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4,_%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB
+3372922.html	https://www.sports.ru/football/blogs/3372922.html
+Нойер, Мануэль	https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B9%D0%B5%D1%80,_%D0%9C%D0%B0%D0%BD%D1%83%D1%8D%D0%BB%D1%8C
+3371206.html	https://www.sports.ru/football/blogs/3371206.html
+Перхун, Сергей Владимирович	https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D1%85%D1%83%D0%BD,_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87
+Петтай, Владимир Леонидович	https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D1%82%D0%B0%D0%B9,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87
+Писарро, Клаудио	https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%81%D0%B0%D1%80%D1%80%D0%BE,_%D0%9A%D0%BB%D0%B0%D1%83%D0%B4%D0%B8%D0%BE
+Попович, Геннадий Иванович	https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BF%D0%BE%D0%B2%D0%B8%D1%87,_%D0%93%D0%B5%D0%BD%D0%BD%D0%B0%D0%B4%D0%B8%D0%B9_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87
+Реднапп, Гарри	https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B4%D0%BD%D0%B0%D0%BF%D0%BF,_%D0%93%D0%B0%D1%80%D1%80%D0%B8
+
+QUERY	(игрок || игроки) && команда
+HITS	1454
+Футбол	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB
+Видеопомощники судьи	https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D0%BD%D0%B8%D0%BA%D0%B8_%D1%81%D1%83%D0%B4%D1%8C%D0%B8
+Позиции в футболе	https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%B8_%D0%B2_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B5
+Тактические построения в футболе	https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B5
+Невероятная команда	https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0
+Разновидности футбола	https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B0
+Мотобол	https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%82%D0%BE%D0%B1%D0%BE%D0%BB
+Пляжный футбол	https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D1%8F%D0%B6%D0%BD%D1%8B%D0%B9_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB
+Рашбол	https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%88%D0%B1%D0%BE%D0%BB
+Сокка (игра)	https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BA%D0%BA%D0%B0_(%D0%B8%D0%B3%D1%80%D0%B0)
+3373023.html	https://www.sports.ru/football/blogs/3373023.html
+Футбол в шарах	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB_%D0%B2_%D1%88%D0%B0%D1%80%D0%B0%D1%85
+Футгольф	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B3%D0%BE%D0%BB%D1%8C%D1%84
+Шоубол	https://ru.wikipedia.org/wiki/%D0%A8%D0%BE%D1%83%D0%B1%D0%BE%D0%BB
+Buntkicktgut	https://ru.wikipedia.org/wiki/Buntkicktgut
+Анри, Тьерри	https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%80%D0%B8,_%D0%A2%D1%8C%D0%B5%D1%80%D1%80%D0%B8
+Бергкамп, Деннис	https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%B3%D0%BA%D0%B0%D0%BC%D0%BF,_%D0%94%D0%B5%D0%BD%D0%BD%D0%B8%D1%81
+Бест, Джордж	https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%81%D1%82,_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6
+article-6295354-kakie-igroki-pomenyayut-klub-zimoj-barinov-boselli-makarov-gondu-diveev-a-kto-eschyo-rpl-2025-2026.html	https://www.championat.com/football/article-6295354-kakie-igroki-pomenyayut-klub-zimoj-barinov-boselli-makarov-gondu-diveev-a-kto-eschyo-rpl-2025-2026.html
+Буффон, Джанлуиджи	https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%84%D1%84%D0%BE%D0%BD,_%D0%94%D0%B6%D0%B0%D0%BD%D0%BB%D1%83%D0%B8%D0%B4%D0%B6%D0%B8
+article-6292498-talalaev-luis-enrike-baltika-pszh-pochemu-glavnye-trenery-smotryat-futbol-s-tribuny-kto-tak-delaet-i-zachem.html	https://www.championat.com/football/article-6292498-talalaev-luis-enrike-baltika-pszh-pochemu-glavnye-trenery-smotryat-futbol-s-tribuny-kto-tak-delaet-i-zachem.html
+article-6295506-kamerun-gabon-kot-d-ivuar-mozambik-alzhir-sudan-burkina-faso-obzor-matchej-kubka-afriki-video-golov-24-dekabrya-2025.html	https://www.championat.com/football/article-6295506-kamerun-gabon-kot-d-ivuar-mozambik-alzhir-sudan-burkina-faso-obzor-matchej-kubka-afriki-video-golov-24-dekabrya-2025.html
+Бышовец, Анатолий Фёдорович	https://ru.wikipedia.org/wiki/%D0%91%D1%8B%D1%88%D0%BE%D0%B2%D0%B5%D1%86,_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D0%B9_%D0%A4%D1%91%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87
+article-6293754-skandal-v-sbornoj-kameruna-na-kubke-afriki-eto-o-uvolnenie-trenera-nevyzov-onana-abubakara-shupo-motinga.html	https://www.championat.com/football/article-6293754-skandal-v-sbornoj-kameruna-na-kubke-afriki-eto-o-uvolnenie-trenera-nevyzov-onana-abubakara-shupo-motinga.html
+Газзаев, Валерий Георгиевич	https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B7%D0%B7%D0%B0%D0%B5%D0%B2,_%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D0%B9_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D0%B8%D1%87
+Гарринча	https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D1%80%D0%B8%D0%BD%D1%87%D0%B0
+article-6293022-egipet-zimbabve-2-1-yuar-angola-2-1-mali-zambiya-1-1-obzor-matchej-kubka-afriki-video-golov-salah-22-dekabrya-2025.html	https://www.championat.com/football/article-6293022-egipet-zimbabve-2-1-yuar-angola-2-1-mali-zambiya-1-1-obzor-matchej-kubka-afriki-video-golov-salah-22-dekabrya-2025.html
+Дель Пьеро, Алессандро	https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BB%D1%8C_%D0%9F%D1%8C%D0%B5%D1%80%D0%BE,_%D0%90%D0%BB%D0%B5%D1%81%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE
+article-6291730-kto-byl-samym-pervym-vrataryom-krasnodara-intervyu-s-dmitriem-klimovym-molodoj-galickij-safonov-adamov-latyshonok-agkacev.html	https://www.championat.com/football/article-6291730-kto-byl-samym-pervym-vrataryom-krasnodara-intervyu-s-dmitriem-klimovym-molodoj-galickij-safonov-adamov-latyshonok-agkacev.html
+Донадони, Роберто	https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D0%B0%D0%B4%D0%BE%D0%BD%D0%B8,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82%D0%BE
+Дрогба, Дидье	https://ru.wikipedia.org/wiki/%D0%94%D1%80%D0%BE%D0%B3%D0%B1%D0%B0,_%D0%94%D0%B8%D0%B4%D1%8C%D0%B5
+Жирков, Юрий Валентинович	https://ru.wikipedia.org/wiki/%D0%96%D0%B8%D1%80%D0%BA%D0%BE%D0%B2,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%92%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87
+Интернасьонал	https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%81%D1%8C%D0%BE%D0%BD%D0%B0%D0%BB
+Колодин, Денис Алексеевич	https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BD,_%D0%94%D0%B5%D0%BD%D0%B8%D1%81_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B8%D1%87
+Коринтианс	https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B8%D0%BD%D1%82%D0%B8%D0%B0%D0%BD%D1%81
+Криштиану Роналду	https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D1%88%D1%82%D0%B8%D0%B0%D0%BD%D1%83_%D0%A0%D0%BE%D0%BD%D0%B0%D0%BB%D0%B4%D1%83
+Кройф, Йохан	https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%BE%D0%B9%D1%84,_%D0%99%D0%BE%D1%85%D0%B0%D0%BD
+Кэхилл, Гари	https://ru.wikipedia.org/wiki/%D0%9A%D1%8D%D1%85%D0%B8%D0%BB%D0%BB,_%D0%93%D0%B0%D1%80%D0%B8
+Манчестер Юнайтед	https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D1%87%D0%B5%D1%81%D1%82%D0%B5%D1%80_%D0%AE%D0%BD%D0%B0%D0%B9%D1%82%D0%B5%D0%B4
+ФК «Манчестер Юнайтед» в сезоне 2016/2017	https://ru.wikipedia.org/wiki/%D0%A4%D0%9A_%C2%AB%D0%9C%D0%B0%D0%BD%D1%87%D0%B5%D1%81%D1%82%D0%B5%D1%80_%D0%AE%D0%BD%D0%B0%D0%B9%D1%82%D0%B5%D0%B4%C2%BB_%D0%B2_%D1%81%D0%B5%D0%B7%D0%BE%D0%BD%D0%B5_2016/2017
+Марадона, Диего	https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BD%D0%B0,_%D0%94%D0%B8%D0%B5%D0%B3%D0%BE
+Месси, Лионель	https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%81%D1%81%D0%B8,_%D0%9B%D0%B8%D0%BE%D0%BD%D0%B5%D0%BB%D1%8C
+Рибери, Франк	https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D0%B1%D0%B5%D1%80%D0%B8,_%D0%A4%D1%80%D0%B0%D0%BD%D0%BA
+Романцев, Олег Иванович	https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D1%86%D0%B5%D0%B2,_%D0%9E%D0%BB%D0%B5%D0%B3_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87
+Руни, Уэйн	https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D0%BD%D0%B8,_%D0%A3%D1%8D%D0%B9%D0%BD
+Синклер, Кристин	https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%BA%D0%BB%D0%B5%D1%80,_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BD
+article-6290252-transfery-zima-2026-sluhi-potencialnye-perehody-semeno-torres-nevesh-tyago-silva-kante-adejemi-jyldyz-gehi-ryuerson.html	https://www.championat.com/football/article-6290252-transfery-zima-2026-sluhi-potencialnye-perehody-semeno-torres-nevesh-tyago-silva-kante-adejemi-jyldyz-gehi-ryuerson.html
+Сычёв, Дмитрий Евгеньевич	https://ru.wikipedia.org/wiki/%D0%A1%D1%8B%D1%87%D1%91%D0%B2,_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D1%8C%D0%B5%D0%B2%D0%B8%D1%87
+Тотти, Франческо	https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D1%82%D1%82%D0%B8,_%D0%A4%D1%80%D0%B0%D0%BD%D1%87%D0%B5%D1%81%D0%BA%D0%BE
+article-6288758-raspisanie-sportivnyh-matchej-20-dekabrya-2025-goda-live-translyacii-tekstovye-translyacii-rezultaty-kto-sygraet.html	https://www.championat.com/football/article-6288758-raspisanie-sportivnyh-matchej-20-dekabrya-2025-goda-live-translyacii-tekstovye-translyacii-rezultaty-kto-sygraet.html
+article-6288568-yura-movsisyan-intervyu-titul-krasnodara-rol-spercyana-buduschee-sbornoj-armenii-trofej-messi-chempionat-mira-v-ssha.html	https://www.championat.com/football/article-6288568-yura-movsisyan-intervyu-titul-krasnodara-rol-spercyana-buduschee-sbornoj-armenii-trofej-messi-chempionat-mira-v-ssha.html
+article-6287610-kuda-propal-eks-zaschitnik-cska-i-sbornoj-rossii-kirill-nababkin-intervyu-bolezn-aldonina-akinfeev-dzagoev-chelestini-fan-id.html	https://www.championat.com/football/article-6287610-kuda-propal-eks-zaschitnik-cska-i-sbornoj-rossii-kirill-nababkin-intervyu-bolezn-aldonina-akinfeev-dzagoev-chelestini-fan-id.html
+article-6287272-chempionat-rossii-kto-luchshij-rossijskij-novichok-rpl-petrov-rasulov-ignatenko-baltika-dinamo-m-ks-rejting-golosovanie.html	https://www.championat.com/football/article-6287272-chempionat-rossii-kto-luchshij-rossijskij-novichok-rpl-petrov-rasulov-ignatenko-baltika-dinamo-m-ks-rejting-golosovanie.html
+Финал Лиги чемпионов УЕФА 2012	https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB_%D0%9B%D0%B8%D0%B3%D0%B8_%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A3%D0%95%D0%A4%D0%90_2012
+article-6287224-seriya-a-fiorentina-proval-kluba-rezultaty-pochemu-idut-poslednimi-statistika-sostav-shansy-vyletet-i-spastis.html	https://www.championat.com/football/article-6287224-seriya-a-fiorentina-proval-kluba-rezultaty-pochemu-idut-poslednimi-statistika-sostav-shansy-vyletet-i-spastis.html
+article-6287284-kak-matvej-safonov-otrazil-chetyre-penalti-v-finale-mezhkontinentalnogo-kubka-razbor-eks-trenera-vratarej-krasnodara-antonyuka.html	https://www.championat.com/football/article-6287284-kak-matvej-safonov-otrazil-chetyre-penalti-v-finale-mezhkontinentalnogo-kubka-razbor-eks-trenera-vratarej-krasnodara-antonyuka.html
+article-6286396-chempionat-rossii-o-kom-iz-ushedshih-igrokov-dolzhny-zhalet-top-kluby-rpl-zenit-spartak-cska-dinamo-m-lokomotiv-krasnodar.html	https://www.championat.com/football/article-6286396-chempionat-rossii-o-kom-iz-ushedshih-igrokov-dolzhny-zhalet-top-kluby-rpl-zenit-spartak-cska-dinamo-m-lokomotiv-krasnodar.html
+Шериф (футбольный клуб)	https://ru.wikipedia.org/wiki/%D0%A8%D0%B5%D1%80%D0%B8%D1%84_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)
+Яшин, Лев Иванович	https://ru.wikipedia.org/wiki/%D0%AF%D1%88%D0%B8%D0%BD,_%D0%9B%D0%B5%D0%B2_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87
+Азар, Эден	https://ru.wikipedia.org/wiki/%D0%90%D0%B7%D0%B0%D1%80,_%D0%AD%D0%B4%D0%B5%D0%BD
+Акимов, Анатолий Михайлович	https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D0%B8%D0%BC%D0%BE%D0%B2,_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D0%B9_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87
+Алонсо, Хаби	https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%BE%D0%BD%D1%81%D0%BE,_%D0%A5%D0%B0%D0%B1%D0%B8
+Боруц, Артур	https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D1%83%D1%86,_%D0%90%D1%80%D1%82%D1%83%D1%80
+Бугерра, Маджид	https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%B3%D0%B5%D1%80%D1%80%D0%B0,_%D0%9C%D0%B0%D0%B4%D0%B6%D0%B8%D0%B4
+Бук, Тони	https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BA,_%D0%A2%D0%BE%D0%BD%D0%B8
+Варди, Джейми	https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D1%80%D0%B4%D0%B8,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D0%B8
+Гивен, Шей	https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%B2%D0%B5%D0%BD,_%D0%A8%D0%B5%D0%B9
+Гуттманн, Бела	https://ru.wikipedia.org/wiki/%D0%93%D1%83%D1%82%D1%82%D0%BC%D0%B0%D0%BD%D0%BD,_%D0%91%D0%B5%D0%BB%D0%B0
+Дейвис, Джимми (футболист)	https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%B9%D0%B2%D0%B8%D1%81,_%D0%94%D0%B6%D0%B8%D0%BC%D0%BC%D0%B8_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B8%D1%81%D1%82)
+Джонстон, Джимми	https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D0%BD%D1%81%D1%82%D0%BE%D0%BD,_%D0%94%D0%B6%D0%B8%D0%BC%D0%BC%D0%B8
+Ди Си Юнайтед	https://ru.wikipedia.org/wiki/%D0%94%D0%B8_%D0%A1%D0%B8_%D0%AE%D0%BD%D0%B0%D0%B9%D1%82%D0%B5%D0%B4
+Дида (вратарь)	https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B4%D0%B0_(%D0%B2%D1%80%D0%B0%D1%82%D0%B0%D1%80%D1%8C)
+Донован, Лэндон	https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD,_%D0%9B%D1%8D%D0%BD%D0%B4%D0%BE%D0%BD
+3373104.html	https://www.sports.ru/football/blogs/3373104.html
+Дувр Атлетик	https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%B2%D1%80_%D0%90%D1%82%D0%BB%D0%B5%D1%82%D0%B8%D0%BA
+Ибрагимович, Златан	https://ru.wikipedia.org/wiki/%D0%98%D0%B1%D1%80%D0%B0%D0%B3%D0%B8%D0%BC%D0%BE%D0%B2%D0%B8%D1%87,_%D0%97%D0%BB%D0%B0%D1%82%D0%B0%D0%BD
+Йорк, Дуайт	https://ru.wikipedia.org/wiki/%D0%99%D0%BE%D1%80%D0%BA,_%D0%94%D1%83%D0%B0%D0%B9%D1%82
+3371784.html	https://www.sports.ru/football/blogs/3371784.html
+Кейс, Джимми	https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D0%B9%D1%81,_%D0%94%D0%B6%D0%B8%D0%BC%D0%BC%D0%B8
+Керр, Сэм	https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D1%80%D1%80,_%D0%A1%D1%8D%D0%BC
+3373100.html	https://www.sports.ru/football/blogs/3373100.html
+Ки Сон Ён	https://ru.wikipedia.org/wiki/%D0%9A%D0%B8_%D0%A1%D0%BE%D0%BD_%D0%81%D0%BD
+Киналья, Джорджо	https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D1%8F,_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6%D0%BE
+3373014.html	https://www.sports.ru/football/blogs/3373014.html
+Крауч, Питер	https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%83%D1%87,_%D0%9F%D0%B8%D1%82%D0%B5%D1%80
+3372893.html	https://www.sports.ru/football/blogs/3372893.html
+Кубала, Ладислав	https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B1%D0%B0%D0%BB%D0%B0,_%D0%9B%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2
+Кубань (футбольный клуб)	https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B1%D0%B0%D0%BD%D1%8C_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)
+Кубок Футбольной ассоциации (трофей)	https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%B0%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%86%D0%B8%D0%B8_(%D1%82%D1%80%D0%BE%D1%84%D0%B5%D0%B9)
+3373032.html	https://www.sports.ru/football/blogs/3373032.html
+Манданда, Стив	https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B4%D0%B0%D0%BD%D0%B4%D0%B0,_%D0%A1%D1%82%D0%B8%D0%B2
+Маркиньос	https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D0%B8%D0%BD%D1%8C%D0%BE%D1%81
+Мвого, Ивон	https://ru.wikipedia.org/wiki/%D0%9C%D0%B2%D0%BE%D0%B3%D0%BE,_%D0%98%D0%B2%D0%BE%D0%BD
+Мередит, Билли	https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%80%D0%B5%D0%B4%D0%B8%D1%82,_%D0%91%D0%B8%D0%BB%D0%BB%D0%B8
+Модрич, Лука	https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B4%D1%80%D0%B8%D1%87,_%D0%9B%D1%83%D0%BA%D0%B0
+Москва (футбольный клуб)	https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)
+Мохаммед Салах	https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%85%D0%B0%D0%BC%D0%BC%D0%B5%D0%B4_%D0%A1%D0%B0%D0%BB%D0%B0%D1%85
+Недвед, Павел	https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4,_%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB
+Неста, Алессандро	https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%81%D1%82%D0%B0,_%D0%90%D0%BB%D0%B5%D1%81%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE
+3372922.html	https://www.sports.ru/football/blogs/3372922.html
+
+QUERY	(футбол || матч || чемпионат || лига || кубок) && !сборная
+HITS	3081
+Портал:Футбол	https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB
+Женский футбол	https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB
+Система автоматического определения голов	https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2
+Футбольные ворота	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%B2%D0%BE%D1%80%D0%BE%D1%82%D0%B0
+Фэнтези-футбол	https://ru.wikipedia.org/wiki/%D0%A4%D1%8D%D0%BD%D1%82%D0%B5%D0%B7%D0%B8-%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB
+Hawk-Eye	https://ru.wikipedia.org/wiki/Hawk-Eye
+Невероятная команда	https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0
+Разновидности футбола	https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B0
+3372941.html	https://www.sports.ru/football/blogs/3372941.html
+3373161.html	https://www.sports.ru/football/blogs/3373161.html
+Мотобол	https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%82%D0%BE%D0%B1%D0%BE%D0%BB
+Рашбол	https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%88%D0%B1%D0%BE%D0%BB
+Сокка (игра)	https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BA%D0%BA%D0%B0_(%D0%B8%D0%B3%D1%80%D0%B0)
+Уличный футбол	https://ru.wikipedia.org/wiki/%D0%A3%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB
+3373023.html	https://www.sports.ru/football/blogs/3373023.html
+Футбол в залах	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB_%D0%B2_%D0%B7%D0%B0%D0%BB%D0%B0%D1%85
+Футбол в шарах	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB_%D0%B2_%D1%88%D0%B0%D1%80%D0%B0%D1%85
+Футболгольф	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B3%D0%BE%D0%BB%D1%8C%D1%84
+Футбольный фристайл	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%84%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%B9%D0%BB
+Футволей	https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B2%D0%BE%D0%BB%D0%B5%D0%B9
+Чеканка мяча	https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D0%BA%D0%B0%D0%BD%D0%BA%D0%B0_%D0%BC%D1%8F%D1%87%D0%B0
+Шоубол	https://ru.wikipedia.org/wiki/%D0%A8%D0%BE%D1%83%D0%B1%D0%BE%D0%BB
+article-6296202-raspisanie-sportivnyh-matchej-26-dekabrya-2025-goda-live-translyacii-tekstovye-translyacii-rezultaty-kto-sygraet.html	https://www.championat.com/football/article-6296202-raspisanie-sportivnyh-matchej-26-dekabrya-2025-goda-live-translyacii-tekstovye-translyacii-rezultaty-kto-sygraet.html
+article-6297154-fnl-pervaya-i-vtoraya-ligi-2025-2026-glavnye-novosti-chto-proishodit-sobytiya-transfery-evseev-tashuev-kamaz-chernomorec-fake.html	https://www.championat.com/football/article-6297154-fnl-pervaya-i-vtoraya-ligi-2025-2026-glavnye-novosti-chto-proishodit-sobytiya-transfery-evseev-tashuev-kamaz-chernomorec-fake.html
+article-6296164-chempionat-polshi-po-futbolu-sezon-2025-2026-unikalnaya-situaciya-v-turnirnoj-tablice-lidery-autsajdery-legiya-statistika.html	https://www.championat.com/football/article-6296164-chempionat-polshi-po-futbolu-sezon-2025-2026-unikalnaya-situaciya-v-turnirnoj-tablice-lidery-autsajdery-legiya-statistika.html
+article-6295118-manchester-yunajted-brunu-fernandesh-kak-igrat-bez-kapitana-kotoryj-poluchil-travmu-postavit-li-amorim-majnu-mnenie-sostav.html	https://www.championat.com/football/article-6295118-manchester-yunajted-brunu-fernandesh-kak-igrat-bez-kapitana-kotoryj-poluchil-travmu-postavit-li-amorim-majnu-mnenie-sostav.html
+article-6292790-kogda-vozobnovyatsya-la-liga-bundesliga-i-liga-1-raspisanie-turov-v-apl-i-serii-a-bavariya-pszh-real-barselona.html	https://www.championat.com/football/article-6292790-kogda-vozobnovyatsya-la-liga-bundesliga-i-liga-1-raspisanie-turov-v-apl-i-serii-a-bavariya-pszh-real-barselona.html
+article-6295354-kakie-igroki-pomenyayut-klub-zimoj-barinov-boselli-makarov-gondu-diveev-a-kto-eschyo-rpl-2025-2026.html	https://www.championat.com/football/article-6295354-kakie-igroki-pomenyayut-klub-zimoj-barinov-boselli-makarov-gondu-diveev-a-kto-eschyo-rpl-2025-2026.html
+article-6292498-talalaev-luis-enrike-baltika-pszh-pochemu-glavnye-trenery-smotryat-futbol-s-tribuny-kto-tak-delaet-i-zachem.html	https://www.championat.com/football/article-6292498-talalaev-luis-enrike-baltika-pszh-pochemu-glavnye-trenery-smotryat-futbol-s-tribuny-kto-tak-delaet-i-zachem.html
+article-6293754-skandal-v-sbornoj-kameruna-na-kubke-afriki-eto-o-uvolnenie-trenera-nevyzov-onana-abubakara-shupo-motinga.html	https://www.championat.com/football/article-6293754-skandal-v-sbornoj-kameruna-na-kubke-afriki-eto-o-uvolnenie-trenera-nevyzov-onana-abubakara-shupo-motinga.html
+article-6294190-spartak-mozhet-vozglavit-huan-karlos-karsedo-biografiya-pomoschnik-unai-emeri-karera-vilyarreal-arsenal-pszh-pafos.html	https://www.championat.com/football/article-6294190-spartak-mozhet-vozglavit-huan-karlos-karsedo-biografiya-pomoschnik-unai-emeri-karera-vilyarreal-arsenal-pszh-pafos.html
+article-6293684-raspisanie-sportivnyh-matchej-24-dekabrya-2025-goda-live-translyacii-tekstovye-translyacii-rezultaty-kto-sygraet.html	https://www.championat.com/football/article-6293684-raspisanie-sportivnyh-matchej-24-dekabrya-2025-goda-live-translyacii-tekstovye-translyacii-rezultaty-kto-sygraet.html
+article-6292814-chm-2026-fifa-dzhanni-infantino-skolko-stoit-bilet-na-final-uschemlenie-invalidov-loyalnye-bolelschiki.html	https://www.championat.com/football/article-6292814-chm-2026-fifa-dzhanni-infantino-skolko-stoit-bilet-na-final-uschemlenie-invalidov-loyalnye-bolelschiki.html
+article-6293782-poluzaschitnik-spartaka-teo-bongonda-zabil-za-sbornuyu-dr-kongo-v-matche-kubka-afriki-benin-video-gola.html	https://www.championat.com/football/article-6293782-poluzaschitnik-spartaka-teo-bongonda-zabil-za-sbornuyu-dr-kongo-v-matche-kubka-afriki-benin-video-gola.html
+article-6293378-byvshij-avtor-chempionata-sergej-titov-k-20-letiyu-chempionata-ob-otdele-futbola-nachale-raboty-analitikom-komandirovkah.html	https://www.championat.com/football/article-6293378-byvshij-avtor-chempionata-sergej-titov-k-20-letiyu-chempionata-ob-otdele-futbola-nachale-raboty-analitikom-komandirovkah.html
+article-6292950-napadayuschij-liverpulya-aleksander-isak-slomal-golenostop-travma-kak-poluchil-sroki-vozvrascheniya-kupyat-li-zamenu-ekitike-semen.html	https://www.championat.com/football/article-6292950-napadayuschij-liverpulya-aleksander-isak-slomal-golenostop-travma-kak-poluchil-sroki-vozvrascheniya-kupyat-li-zamenu-ekitike-semen.html
+article-6292628-raspisanie-sportivnyh-matchej-23-dekabrya-2025-goda-live-translyacii-tekstovye-translyacii-rezultaty-kto-sygraet.html	https://www.championat.com/football/article-6292628-raspisanie-sportivnyh-matchej-23-dekabrya-2025-goda-live-translyacii-tekstovye-translyacii-rezultaty-kto-sygraet.html
+article-6292764-eks-trener-spartaka-deyan-stankovich-vozglavil-crvenu-zvezdu-press-konferenciya-kommentarii-ob-rpl-sudejstve-transfere-markinosa.html	https://www.championat.com/football/article-6292764-eks-trener-spartaka-deyan-stankovich-vozglavil-crvenu-zvezdu-press-konferenciya-kommentarii-ob-rpl-sudejstve-transfere-markinosa.html
+article-6291730-kto-byl-samym-pervym-vrataryom-krasnodara-intervyu-s-dmitriem-klimovym-molodoj-galickij-safonov-adamov-latyshonok-agkacev.html	https://www.championat.com/football/article-6291730-kto-byl-samym-pervym-vrataryom-krasnodara-intervyu-s-dmitriem-klimovym-molodoj-galickij-safonov-adamov-latyshonok-agkacev.html
+article-6291644-transfery-futbola-zima-2025-tyago-silva-pereshyol-v-portu-prichiny-pochemu-vernulsya-v-evropu-kak-igral-vo-fluminense.html	https://www.championat.com/football/article-6291644-transfery-futbola-zima-2025-tyago-silva-pereshyol-v-portu-prichiny-pochemu-vernulsya-v-evropu-kak-igral-vo-fluminense.html
+Столкновение над Днепродзержинском	https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%BE%D0%BB%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0%D0%B4_%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%BE%D0%B4%D0%B7%D0%B5%D1%80%D0%B6%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%BC
+Интернасьонал	https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%81%D1%8C%D0%BE%D0%BD%D0%B0%D0%BB
+Колодин, Денис Алексеевич	https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BD,_%D0%94%D0%B5%D0%BD%D0%B8%D1%81_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B8%D1%87
+Кэхилл, Гари	https://ru.wikipedia.org/wiki/%D0%9A%D1%8D%D1%85%D0%B8%D0%BB%D0%BB,_%D0%93%D0%B0%D1%80%D0%B8
+Манчестер Юнайтед	https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D1%87%D0%B5%D1%81%D1%82%D0%B5%D1%80_%D0%AE%D0%BD%D0%B0%D0%B9%D1%82%D0%B5%D0%B4
+article-6292060-futbol-obzor-matchej-chempionatov-evropy-20-21-dekabrya-apl-la-liga-seriya-a-bundesliga-real-arsenal-barselona-bavariya-myu.html	https://www.championat.com/football/article-6292060-futbol-obzor-matchej-chempionatov-evropy-20-21-dekabrya-apl-la-liga-seriya-a-bundesliga-real-arsenal-barselona-bavariya-myu.html
+article-6291320-napoli-bolonya-final-superkubka-italii-2025-poluzaschitnik-skott-maktominej-statistika-kommentarii-luchshij-igrok-serii-a.html	https://www.championat.com/football/article-6291320-napoli-bolonya-final-superkubka-italii-2025-poluzaschitnik-skott-maktominej-statistika-kommentarii-luchshij-igrok-serii-a.html
+Руни, Уэйн	https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D0%BD%D0%B8,_%D0%A3%D1%8D%D0%B9%D0%BD
+article-6287458-milan-i-inter-vykupili-san-siro-u-vlastej-goroda-summa-stadion-snesut-i-postroyat-novyj-proekt-evro-2032.html	https://www.championat.com/football/article-6287458-milan-i-inter-vykupili-san-siro-u-vlastej-goroda-summa-stadion-snesut-i-postroyat-novyj-proekt-evro-2032.html
+article-6290564-tottenhem-liverpul-1-2-obzor-matcha-apl-20-dekabrya-2025-chempionat-anglii-goly-aleksander-isak-ugo-ekitike-risharlison.html	https://www.championat.com/football/article-6290564-tottenhem-liverpul-1-2-obzor-matcha-apl-20-dekabrya-2025-chempionat-anglii-goly-aleksander-isak-ugo-ekitike-risharlison.html
+article-6290390-napadayuschij-manchester-siti-erling-holand-oboshyol-po-golam-v-apl-krishtianu-ronaldu-pobyot-li-rekord-shirera-kogda-statistika.html	https://www.championat.com/football/article-6290390-napadayuschij-manchester-siti-erling-holand-oboshyol-po-golam-v-apl-krishtianu-ronaldu-pobyot-li-rekord-shirera-kogda-statistika.html
+article-6290122-rekord-artyoma-dzyuby-po-golam-za-sbornuyu-rossii-mogut-perepisat-na-aleksandra-kerzhakova-podrobnosti-20-dekabrya-2025.html	https://www.championat.com/football/article-6290122-rekord-artyoma-dzyuby-po-golam-za-sbornuyu-rossii-mogut-perepisat-na-aleksandra-kerzhakova-podrobnosti-20-dekabrya-2025.html
+Тотти, Франческо	https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D1%82%D1%82%D0%B8,_%D0%A4%D1%80%D0%B0%D0%BD%D1%87%D0%B5%D1%81%D0%BA%D0%BE
+3373101.html	https://www.sports.ru/football/blogs/3373101.html
+article-6289080-transfery-rpl-zima-2026-chto-budet-s-lusiano-gondu-v-zenite-kuda-mozhet-ujti-chto-govorit-semak-statistika-peregovory-s-cska.html	https://www.championat.com/football/article-6289080-transfery-rpl-zima-2026-chto-budet-s-lusiano-gondu-v-zenite-kuda-mozhet-ujti-chto-govorit-semak-statistika-peregovory-s-cska.html
+article-6288758-raspisanie-sportivnyh-matchej-20-dekabrya-2025-goda-live-translyacii-tekstovye-translyacii-rezultaty-kto-sygraet.html	https://www.championat.com/football/article-6288758-raspisanie-sportivnyh-matchej-20-dekabrya-2025-goda-live-translyacii-tekstovye-translyacii-rezultaty-kto-sygraet.html
+article-6285184-florian-virc-v-liverpule-statistika-kakie-zvyozdy-nachinali-v-apl-huzhe-torres-balotelli-forlan-hojlund-syorlot.html	https://www.championat.com/football/article-6285184-florian-virc-v-liverpule-statistika-kakie-zvyozdy-nachinali-v-apl-huzhe-torres-balotelli-forlan-hojlund-syorlot.html
+article-6288646-fnl-pervaya-i-vtoraya-ligi-2025-2026-glavnye-novosti-sobytiya-transfery-evseev-kamaz-chernomorec-rodina-shinnik.html	https://www.championat.com/football/article-6288646-fnl-pervaya-i-vtoraya-ligi-2025-2026-glavnye-novosti-sobytiya-transfery-evseev-kamaz-chernomorec-rodina-shinnik.html
+3373205.html	https://www.sports.ru/football/blogs/3373205.html
+article-6287272-chempionat-rossii-kto-luchshij-rossijskij-novichok-rpl-petrov-rasulov-ignatenko-baltika-dinamo-m-ks-rejting-golosovanie.html	https://www.championat.com/football/article-6287272-chempionat-rossii-kto-luchshij-rossijskij-novichok-rpl-petrov-rasulov-ignatenko-baltika-dinamo-m-ks-rejting-golosovanie.html
+Финал Лиги чемпионов УЕФА 2012	https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB_%D0%9B%D0%B8%D0%B3%D0%B8_%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A3%D0%95%D0%A4%D0%90_2012
+article-6286468-chempionat-francii-kak-igraet-mejson-grinvud-za-marsel-luchshij-bombardir-ligi-1-statistika-perezapusk-karery-sbornaya-anglii.html	https://www.championat.com/football/article-6286468-chempionat-francii-kak-igraet-mejson-grinvud-za-marsel-luchshij-bombardir-ligi-1-statistika-perezapusk-karery-sbornaya-anglii.html
+article-6287224-seriya-a-fiorentina-proval-kluba-rezultaty-pochemu-idut-poslednimi-statistika-sostav-shansy-vyletet-i-spastis.html	https://www.championat.com/football/article-6287224-seriya-a-fiorentina-proval-kluba-rezultaty-pochemu-idut-poslednimi-statistika-sostav-shansy-vyletet-i-spastis.html
+article-6287156-matvej-safonov-pszh-seriya-penalti-v-matche-s-flamengo-reakciya-smi-na-chetyre-otbityh-penalti-chto-pishut-v-mire-18-dekabrya.html	https://www.championat.com/football/article-6287156-matvej-safonov-pszh-seriya-penalti-v-matche-s-flamengo-reakciya-smi-na-chetyre-otbityh-penalti-chto-pishut-v-mire-18-dekabrya.html
+article-6285816-intervyu-s-talantom-akrona-dmitriem-pestryakovym-rabota-s-tedeevym-i-dzyuboj-adaptaciya-vo-vzroslom-futbole-interes-cska.html	https://www.championat.com/football/article-6285816-intervyu-s-talantom-akrona-dmitriem-pestryakovym-rabota-s-tedeevym-i-dzyuboj-adaptaciya-vo-vzroslom-futbole-interes-cska.html
+article-6283448-chempionat-rossii-kto-mozhet-perejti-v-spartak-zenit-cska-dinamo-lokomotiv-ili-krasnodar-iz-drugih-klubov-rpl-rejting-igrokov.html	https://www.championat.com/football/article-6283448-chempionat-rossii-kto-mozhet-perejti-v-spartak-zenit-cska-dinamo-lokomotiv-ili-krasnodar-iz-drugih-klubov-rpl-rejting-igrokov.html
+article-6286664-talavera-real-madrid-2-3-obzor-matcha-kubka-ispanii-goly-dubl-mbappe-avtogol-statistika-17-dekabrya-2025.html	https://www.championat.com/football/article-6286664-talavera-real-madrid-2-3-obzor-matcha-kubka-ispanii-goly-dubl-mbappe-avtogol-statistika-17-dekabrya-2025.html
+article-6286486-pszh-flamengo-1-1-obzor-finala-mezhkontinentalnogo-kubka-goly-hvicha-zhorzhino-penalti-kak-sygral-safonov-17-dekabrya-2025.html	https://www.championat.com/football/article-6286486-pszh-flamengo-1-1-obzor-finala-mezhkontinentalnogo-kubka-goly-hvicha-zhorzhino-penalti-kak-sygral-safonov-17-dekabrya-2025.html
+article-6285940-kilian-mbappe-vyigral-sudebnoe-delo-u-pszh-eur-61-mln-vyplata-istoriya-dela-prichiny-kommentarii.html	https://www.championat.com/football/article-6285940-kilian-mbappe-vyigral-sudebnoe-delo-u-pszh-eur-61-mln-vyplata-istoriya-dela-prichiny-kommentarii.html
+3373208.html	https://www.sports.ru/football/blogs/3373208.html
+3369765.html	https://www.sports.ru/football/blogs/3369765.html
+Алонсо, Хаби	https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%BE%D0%BD%D1%81%D0%BE,_%D0%A5%D0%B0%D0%B1%D0%B8
+Боруц, Артур	https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D1%83%D1%86,_%D0%90%D1%80%D1%82%D1%83%D1%80
+Бугерра, Маджид	https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%B3%D0%B5%D1%80%D1%80%D0%B0,_%D0%9C%D0%B0%D0%B4%D0%B6%D0%B8%D0%B4
+Бук, Тони	https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BA,_%D0%A2%D0%BE%D0%BD%D0%B8
+3373187.html	https://www.sports.ru/football/blogs/3373187.html
+Гивен, Шей	https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%B2%D0%B5%D0%BD,_%D0%A8%D0%B5%D0%B9
+Гоутер, Шон	https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%83%D1%82%D0%B5%D1%80,_%D0%A8%D0%BE%D0%BD
+Джонстон, Джимми	https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D0%BD%D1%81%D1%82%D0%BE%D0%BD,_%D0%94%D0%B6%D0%B8%D0%BC%D0%BC%D0%B8
+Джурич, Александар	https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D1%83%D1%80%D0%B8%D1%87,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80
+Ди Си Юнайтед	https://ru.wikipedia.org/wiki/%D0%94%D0%B8_%D0%A1%D0%B8_%D0%AE%D0%BD%D0%B0%D0%B9%D1%82%D0%B5%D0%B4
+Дида (вратарь)	https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B4%D0%B0_(%D0%B2%D1%80%D0%B0%D1%82%D0%B0%D1%80%D1%8C)
+Дувр Атлетик	https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%B2%D1%80_%D0%90%D1%82%D0%BB%D0%B5%D1%82%D0%B8%D0%BA
+3373113.html	https://www.sports.ru/football/blogs/3373113.html
+Зенит (дворец спорта)	https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%BD%D0%B8%D1%82_(%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B0)
+Йорк, Дуайт	https://ru.wikipedia.org/wiki/%D0%99%D0%BE%D1%80%D0%BA,_%D0%94%D1%83%D0%B0%D0%B9%D1%82
+3371784.html	https://www.sports.ru/football/blogs/3371784.html
+Кейс, Джимми	https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D0%B9%D1%81,_%D0%94%D0%B6%D0%B8%D0%BC%D0%BC%D0%B8
+Керр, Сэм	https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D1%80%D1%80,_%D0%A1%D1%8D%D0%BC
+Киналья, Джорджо	https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D1%8F,_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6%D0%BE
+3373014.html	https://www.sports.ru/football/blogs/3373014.html
+Кинкладзе, Георгий Робинзонович	https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BD%D0%BA%D0%BB%D0%B0%D0%B4%D0%B7%D0%B5,_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B9_%D0%A0%D0%BE%D0%B1%D0%B8%D0%BD%D0%B7%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87
+3372893.html	https://www.sports.ru/football/blogs/3372893.html
+Кубань (футбольный клуб)	https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B1%D0%B0%D0%BD%D1%8C_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)
+Кубок Футбольной ассоциации (трофей)	https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%B0%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%86%D0%B8%D0%B8_(%D1%82%D1%80%D0%BE%D1%84%D0%B5%D0%B9)
+3373032.html	https://www.sports.ru/football/blogs/3373032.html
+Левандовский, Мариуш	https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B2%D0%B0%D0%BD%D0%B4%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%9C%D0%B0%D1%80%D0%B8%D1%83%D1%88
+3372608.html	https://www.sports.ru/football/blogs/3372608.html
+Маркиньос	https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D0%B8%D0%BD%D1%8C%D0%BE%D1%81
+Мвого, Ивон	https://ru.wikipedia.org/wiki/%D0%9C%D0%B2%D0%BE%D0%B3%D0%BE,_%D0%98%D0%B2%D0%BE%D0%BD
+
