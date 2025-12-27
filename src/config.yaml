@@ -1,0 +1,45 @@
+db:
+  uri: "mongodb://localhost:27017"
+  database: "ir_lr2"
+  documents_collection: "documents"
+  tasks_collection: "tasks"
+
+logic:
+  delay_seconds: 0.35
+  lock_ttl_seconds: 120
+  recrawl_seconds: 86400
+  max_retries: 5
+  user_agent: "IR-LR2-Bot/1.0 (edu)"
+  worker_threads_per_source: 1
+  retry_backoff_base_seconds: 30
+  retry_backoff_max_seconds: 3600
+  timeout_seconds: 60
+  progress_log_seconds: 60
+  
+sources:
+  wiki:
+    enabled: true
+    seed_categories: ["Категория:Футбол"]
+    max_depth: 5
+    discovery_max_pages: 20000
+    min_words: 450
+
+  championat:
+    enabled: true
+    listing_pages_from: 1
+    listing_pages_to: 1000
+    min_words: 250
+
+  sportsru:
+    enabled: true
+    listing_pages_from: 1
+    listing_pages_to: 1000
+    min_words: 250
+
+logs:
+  dir: "logs"
+  level: "INFO"
+  max_mb: 50
+  backups: 10
+
+
